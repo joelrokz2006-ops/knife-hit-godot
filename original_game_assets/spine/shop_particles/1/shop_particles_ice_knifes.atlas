@@ -1,0 +1,20 @@
+
+shop_particles_ice_knifes.png
+size: 131,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+new
+  rotate: true
+  xy: 75, 20
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+star2/star
+  rotate: false
+  xy: 2, 2
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1

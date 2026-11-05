@@ -1,0 +1,27 @@
+
+shop_particles_purple.png
+size: 55,29
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beem
+  rotate: true
+  xy: 2, 18
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+new
+  rotate: false
+  xy: 2, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 35, 9
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

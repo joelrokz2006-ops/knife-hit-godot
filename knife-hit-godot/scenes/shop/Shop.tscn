@@ -1,0 +1,147 @@
+[gd_scene load_steps=6 format=3]
+
+[ext_resource type="Script" path="res://scripts/ui/ShopView.gd" id="1_shopview"]
+[ext_resource type="Texture2D" path="res://assets/art/bg/bg0.png" id="2_bg"]
+[ext_resource type="FontFile" path="res://assets/fonts/Dyno Bold.ttf" id="3_font"]
+[ext_resource type="Texture2D" path="res://assets/art/ui/back.png" id="4_back"]
+[ext_resource type="Texture2D" path="res://assets/art/ui/apple.png" id="5_apple"]
+
+[node name="Shop" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_shopview")
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(540, 960)
+scale = Vector2(2.5, 4)
+texture = ExtResource("2_bg")
+
+[node name="Header" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 200.0
+grow_horizontal = 2
+
+[node name="BackButton" type="Button" parent="Header"]
+custom_minimum_size = Vector2(100, 80)
+layout_mode = 1
+offset_left = 40.0
+offset_top = 70.0
+offset_right = 140.0
+offset_bottom = 150.0
+icon = ExtResource("4_back")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[node name="Title" type="Label" parent="Header"]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -200.0
+offset_top = 65.0
+offset_right = 200.0
+offset_bottom = 140.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("3_font")
+theme_override_font_sizes/font_size = 60
+text = "KNIVES"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="CountLabel" type="Label" parent="Header"]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -150.0
+offset_top = 140.0
+offset_right = 150.0
+offset_bottom = 185.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(0.7, 0.7, 0.8, 1)
+theme_override_fonts/font = ExtResource("3_font")
+theme_override_font_sizes/font_size = 32
+text = "1 / 207"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ApplesContainer" type="HBoxContainer" parent="Header"]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -240.0
+offset_top = 75.0
+offset_right = -40.0
+offset_bottom = 145.0
+grow_horizontal = 0
+alignment = 2
+
+[node name="AppleIcon" type="TextureRect" parent="Header/ApplesContainer"]
+custom_minimum_size = Vector2(48, 48)
+layout_mode = 2
+texture = ExtResource("5_apple")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="ApplesLabel" type="Label" parent="Header/ApplesContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_font")
+theme_override_font_sizes/font_size = 42
+text = "0"
+vertical_alignment = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 50.0
+offset_top = 210.0
+offset_right = -50.0
+offset_bottom = -180.0
+grow_horizontal = 2
+grow_vertical = 2
+horizontal_scroll_mode = 0
+
+[node name="GridContainer" type="GridContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/h_separation = 24
+theme_override_constants/v_separation = 28
+columns = 4
+
+[node name="BottomBar" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -170.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="RandomButton" type="Button" parent="BottomBar"]
+custom_minimum_size = Vector2(520, 100)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -260.0
+offset_top = -50.0
+offset_right = 260.0
+offset_bottom = 50.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("3_font")
+theme_override_font_sizes/font_size = 38
+text = "UNLOCK RANDOM (500 🍎)"

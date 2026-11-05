@@ -1,0 +1,20 @@
+
+cross_boss.png
+size: 130,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/L
+  rotate: true
+  xy: 73, 10
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+assets/R
+  rotate: true
+  xy: 2, 2
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1453 @@
+{
+  "knives": [
+    {
+      "id": "knife_0",
+      "name": "Classic Dagger",
+      "sprite": "res://assets/art/knifes/knife_0.png",
+      "price": 0,
+      "unlocked": true
+    },
+    {
+      "id": "knife_1",
+      "name": "Steel Scalpel",
+      "sprite": "res://assets/art/knifes/knife_1.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_2",
+      "name": "Hunter Fang",
+      "sprite": "res://assets/art/knifes/knife_2.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_3",
+      "name": "Shadow Kunai",
+      "sprite": "res://assets/art/knifes/knife_3.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_4",
+      "name": "Golden Dirk",
+      "sprite": "res://assets/art/knifes/knife_4.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_5",
+      "name": "Viper Stiletto",
+      "sprite": "res://assets/art/knifes/knife_5.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_6",
+      "name": "Dragon Talon",
+      "sprite": "res://assets/art/knifes/knife_6.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_7",
+      "name": "Cyber Blade",
+      "sprite": "res://assets/art/knifes/knife_7.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_8",
+      "name": "Obsidian Edge",
+      "sprite": "res://assets/art/knifes/knife_8.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_9",
+      "name": "Frostbite Piercer",
+      "sprite": "res://assets/art/knifes/knife_9.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_10",
+      "name": "Crimson Shard",
+      "sprite": "res://assets/art/knifes/knife_10.png",
+      "price": 250,
+      "unlocked": false
+    },
+    {
+      "id": "knife_11",
+      "name": "Venom Needle",
+      "sprite": "res://assets/art/knifes/knife_11.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_12",
+      "name": "Rune Carver",
+      "sprite": "res://assets/art/knifes/knife_12.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_13",
+      "name": "Solar Glint",
+      "sprite": "res://assets/art/knifes/knife_13.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_14",
+      "name": "Void Needle",
+      "sprite": "res://assets/art/knifes/knife_14.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_15",
+      "name": "Neon Sai",
+      "sprite": "res://assets/art/knifes/knife_15.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_16",
+      "name": "Titan Cleaver",
+      "sprite": "res://assets/art/knifes/knife_16.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_17",
+      "name": "Phantom Spike",
+      "sprite": "res://assets/art/knifes/knife_17.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_18",
+      "name": "Iron Thorn",
+      "sprite": "res://assets/art/knifes/knife_18.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_19",
+      "name": "Emerald Shiv",
+      "sprite": "res://assets/art/knifes/knife_19.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_20",
+      "name": "Thunder Bolt",
+      "sprite": "res://assets/art/knifes/knife_20.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_21",
+      "name": "Blood Katana",
+      "sprite": "res://assets/art/knifes/knife_21.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_22",
+      "name": "Apex Saber",
+      "sprite": "res://assets/art/knifes/knife_22.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_23",
+      "name": "Cobalt Razor",
+      "sprite": "res://assets/art/knifes/knife_23.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_24",
+      "name": "Dark Damascus",
+      "sprite": "res://assets/art/knifes/knife_24.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_25",
+      "name": "Blade #25",
+      "sprite": "res://assets/art/knifes/knife_25.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_26",
+      "name": "Blade #26",
+      "sprite": "res://assets/art/knifes/knife_26.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_27",
+      "name": "Blade #27",
+      "sprite": "res://assets/art/knifes/knife_27.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_28",
+      "name": "Blade #28",
+      "sprite": "res://assets/art/knifes/knife_28.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_29",
+      "name": "Blade #29",
+      "sprite": "res://assets/art/knifes/knife_29.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_30",
+      "name": "Blade #30",
+      "sprite": "res://assets/art/knifes/knife_30.png",
+      "price": 500,
+      "unlocked": false
+    },
+    {
+      "id": "knife_31",
+      "name": "Blade #31",
+      "sprite": "res://assets/art/knifes/knife_31.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_32",
+      "name": "Blade #32",
+      "sprite": "res://assets/art/knifes/knife_32.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_33",
+      "name": "Blade #33",
+      "sprite": "res://assets/art/knifes/knife_33.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_34",
+      "name": "Blade #34",
+      "sprite": "res://assets/art/knifes/knife_34.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_35",
+      "name": "Blade #35",
+      "sprite": "res://assets/art/knifes/knife_35.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_36",
+      "name": "Blade #36",
+      "sprite": "res://assets/art/knifes/knife_36.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_37",
+      "name": "Blade #37",
+      "sprite": "res://assets/art/knifes/knife_37.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_38",
+      "name": "Blade #38",
+      "sprite": "res://assets/art/knifes/knife_38.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_39",
+      "name": "Blade #39",
+      "sprite": "res://assets/art/knifes/knife_39.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_40",
+      "name": "Blade #40",
+      "sprite": "res://assets/art/knifes/knife_40.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_41",
+      "name": "Blade #41",
+      "sprite": "res://assets/art/knifes/knife_41.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_42",
+      "name": "Blade #42",
+      "sprite": "res://assets/art/knifes/knife_42.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_43",
+      "name": "Blade #43",
+      "sprite": "res://assets/art/knifes/knife_43.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_44",
+      "name": "Blade #44",
+      "sprite": "res://assets/art/knifes/knife_44.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_45",
+      "name": "Blade #45",
+      "sprite": "res://assets/art/knifes/knife_45.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_46",
+      "name": "Blade #46",
+      "sprite": "res://assets/art/knifes/knife_46.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_47",
+      "name": "Blade #47",
+      "sprite": "res://assets/art/knifes/knife_47.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_48",
+      "name": "Blade #48",
+      "sprite": "res://assets/art/knifes/knife_48.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_49",
+      "name": "Blade #49",
+      "sprite": "res://assets/art/knifes/knife_49.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_50",
+      "name": "Blade #50",
+      "sprite": "res://assets/art/knifes/knife_50.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_51",
+      "name": "Blade #51",
+      "sprite": "res://assets/art/knifes/knife_51.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_52",
+      "name": "Blade #52",
+      "sprite": "res://assets/art/knifes/knife_52.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_53",
+      "name": "Blade #53",
+      "sprite": "res://assets/art/knifes/knife_53.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_54",
+      "name": "Blade #54",
+      "sprite": "res://assets/art/knifes/knife_54.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_55",
+      "name": "Blade #55",
+      "sprite": "res://assets/art/knifes/knife_55.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_56",
+      "name": "Blade #56",
+      "sprite": "res://assets/art/knifes/knife_56.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_57",
+      "name": "Blade #57",
+      "sprite": "res://assets/art/knifes/knife_57.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_58",
+      "name": "Blade #58",
+      "sprite": "res://assets/art/knifes/knife_58.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_59",
+      "name": "Blade #59",
+      "sprite": "res://assets/art/knifes/knife_59.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_60",
+      "name": "Blade #60",
+      "sprite": "res://assets/art/knifes/knife_60.png",
+      "price": 1000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_61",
+      "name": "Blade #61",
+      "sprite": "res://assets/art/knifes/knife_61.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_62",
+      "name": "Blade #62",
+      "sprite": "res://assets/art/knifes/knife_62.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_63",
+      "name": "Blade #63",
+      "sprite": "res://assets/art/knifes/knife_63.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_64",
+      "name": "Blade #64",
+      "sprite": "res://assets/art/knifes/knife_64.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_65",
+      "name": "Blade #65",
+      "sprite": "res://assets/art/knifes/knife_65.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_66",
+      "name": "Blade #66",
+      "sprite": "res://assets/art/knifes/knife_66.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_67",
+      "name": "Blade #67",
+      "sprite": "res://assets/art/knifes/knife_67.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_68",
+      "name": "Blade #68",
+      "sprite": "res://assets/art/knifes/knife_68.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_69",
+      "name": "Blade #69",
+      "sprite": "res://assets/art/knifes/knife_69.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_70",
+      "name": "Blade #70",
+      "sprite": "res://assets/art/knifes/knife_70.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_71",
+      "name": "Blade #71",
+      "sprite": "res://assets/art/knifes/knife_71.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_72",
+      "name": "Blade #72",
+      "sprite": "res://assets/art/knifes/knife_72.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_73",
+      "name": "Blade #73",
+      "sprite": "res://assets/art/knifes/knife_73.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_74",
+      "name": "Blade #74",
+      "sprite": "res://assets/art/knifes/knife_74.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_75",
+      "name": "Blade #75",
+      "sprite": "res://assets/art/knifes/knife_75.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_76",
+      "name": "Blade #76",
+      "sprite": "res://assets/art/knifes/knife_76.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_77",
+      "name": "Blade #77",
+      "sprite": "res://assets/art/knifes/knife_77.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_78",
+      "name": "Blade #78",
+      "sprite": "res://assets/art/knifes/knife_78.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_79",
+      "name": "Blade #79",
+      "sprite": "res://assets/art/knifes/knife_79.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_80",
+      "name": "Blade #80",
+      "sprite": "res://assets/art/knifes/knife_80.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_81",
+      "name": "Blade #81",
+      "sprite": "res://assets/art/knifes/knife_81.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_82",
+      "name": "Blade #82",
+      "sprite": "res://assets/art/knifes/knife_82.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_83",
+      "name": "Blade #83",
+      "sprite": "res://assets/art/knifes/knife_83.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_84",
+      "name": "Blade #84",
+      "sprite": "res://assets/art/knifes/knife_84.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_85",
+      "name": "Blade #85",
+      "sprite": "res://assets/art/knifes/knife_85.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_86",
+      "name": "Blade #86",
+      "sprite": "res://assets/art/knifes/knife_86.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_87",
+      "name": "Blade #87",
+      "sprite": "res://assets/art/knifes/knife_87.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_88",
+      "name": "Blade #88",
+      "sprite": "res://assets/art/knifes/knife_88.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_89",
+      "name": "Blade #89",
+      "sprite": "res://assets/art/knifes/knife_89.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_90",
+      "name": "Blade #90",
+      "sprite": "res://assets/art/knifes/knife_90.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_91",
+      "name": "Blade #91",
+      "sprite": "res://assets/art/knifes/knife_91.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_92",
+      "name": "Blade #92",
+      "sprite": "res://assets/art/knifes/knife_92.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_93",
+      "name": "Blade #93",
+      "sprite": "res://assets/art/knifes/knife_93.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_94",
+      "name": "Blade #94",
+      "sprite": "res://assets/art/knifes/knife_94.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_95",
+      "name": "Blade #95",
+      "sprite": "res://assets/art/knifes/knife_95.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_96",
+      "name": "Blade #96",
+      "sprite": "res://assets/art/knifes/knife_96.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_97",
+      "name": "Blade #97",
+      "sprite": "res://assets/art/knifes/knife_97.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_98",
+      "name": "Blade #98",
+      "sprite": "res://assets/art/knifes/knife_98.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_99",
+      "name": "Blade #99",
+      "sprite": "res://assets/art/knifes/knife_99.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_100",
+      "name": "Blade #100",
+      "sprite": "res://assets/art/knifes/knife_100.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_101",
+      "name": "Blade #101",
+      "sprite": "res://assets/art/knifes/knife_101.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_102",
+      "name": "Blade #102",
+      "sprite": "res://assets/art/knifes/knife_102.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_103",
+      "name": "Blade #103",
+      "sprite": "res://assets/art/knifes/knife_103.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_104",
+      "name": "Blade #104",
+      "sprite": "res://assets/art/knifes/knife_104.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_105",
+      "name": "Blade #105",
+      "sprite": "res://assets/art/knifes/knife_105.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_106",
+      "name": "Blade #106",
+      "sprite": "res://assets/art/knifes/knife_106.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_107",
+      "name": "Blade #107",
+      "sprite": "res://assets/art/knifes/knife_107.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_108",
+      "name": "Blade #108",
+      "sprite": "res://assets/art/knifes/knife_108.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_109",
+      "name": "Blade #109",
+      "sprite": "res://assets/art/knifes/knife_109.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_110",
+      "name": "Blade #110",
+      "sprite": "res://assets/art/knifes/knife_110.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_111",
+      "name": "Blade #111",
+      "sprite": "res://assets/art/knifes/knife_111.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_112",
+      "name": "Blade #112",
+      "sprite": "res://assets/art/knifes/knife_112.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_113",
+      "name": "Blade #113",
+      "sprite": "res://assets/art/knifes/knife_113.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_114",
+      "name": "Blade #114",
+      "sprite": "res://assets/art/knifes/knife_114.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_115",
+      "name": "Blade #115",
+      "sprite": "res://assets/art/knifes/knife_115.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_116",
+      "name": "Blade #116",
+      "sprite": "res://assets/art/knifes/knife_116.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_117",
+      "name": "Blade #117",
+      "sprite": "res://assets/art/knifes/knife_117.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_118",
+      "name": "Blade #118",
+      "sprite": "res://assets/art/knifes/knife_118.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_119",
+      "name": "Blade #119",
+      "sprite": "res://assets/art/knifes/knife_119.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_120",
+      "name": "Blade #120",
+      "sprite": "res://assets/art/knifes/knife_120.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_121",
+      "name": "Blade #121",
+      "sprite": "res://assets/art/knifes/knife_121.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_122",
+      "name": "Blade #122",
+      "sprite": "res://assets/art/knifes/knife_122.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_123",
+      "name": "Blade #123",
+      "sprite": "res://assets/art/knifes/knife_123.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_124",
+      "name": "Blade #124",
+      "sprite": "res://assets/art/knifes/knife_124.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_125",
+      "name": "Blade #125",
+      "sprite": "res://assets/art/knifes/knife_125.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_126",
+      "name": "Blade #126",
+      "sprite": "res://assets/art/knifes/knife_126.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_127",
+      "name": "Blade #127",
+      "sprite": "res://assets/art/knifes/knife_127.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_128",
+      "name": "Blade #128",
+      "sprite": "res://assets/art/knifes/knife_128.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_129",
+      "name": "Blade #129",
+      "sprite": "res://assets/art/knifes/knife_129.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_130",
+      "name": "Blade #130",
+      "sprite": "res://assets/art/knifes/knife_130.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_131",
+      "name": "Blade #131",
+      "sprite": "res://assets/art/knifes/knife_131.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_132",
+      "name": "Blade #132",
+      "sprite": "res://assets/art/knifes/knife_132.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_133",
+      "name": "Blade #133",
+      "sprite": "res://assets/art/knifes/knife_133.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_134",
+      "name": "Blade #134",
+      "sprite": "res://assets/art/knifes/knife_134.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_135",
+      "name": "Blade #135",
+      "sprite": "res://assets/art/knifes/knife_135.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_136",
+      "name": "Blade #136",
+      "sprite": "res://assets/art/knifes/knife_136.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_137",
+      "name": "Blade #137",
+      "sprite": "res://assets/art/knifes/knife_137.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_138",
+      "name": "Blade #138",
+      "sprite": "res://assets/art/knifes/knife_138.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_139",
+      "name": "Blade #139",
+      "sprite": "res://assets/art/knifes/knife_139.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_140",
+      "name": "Blade #140",
+      "sprite": "res://assets/art/knifes/knife_140.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_141",
+      "name": "Blade #141",
+      "sprite": "res://assets/art/knifes/knife_141.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_142",
+      "name": "Blade #142",
+      "sprite": "res://assets/art/knifes/knife_142.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_143",
+      "name": "Blade #143",
+      "sprite": "res://assets/art/knifes/knife_143.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_144",
+      "name": "Blade #144",
+      "sprite": "res://assets/art/knifes/knife_144.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_145",
+      "name": "Blade #145",
+      "sprite": "res://assets/art/knifes/knife_145.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_146",
+      "name": "Blade #146",
+      "sprite": "res://assets/art/knifes/knife_146.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_147",
+      "name": "Blade #147",
+      "sprite": "res://assets/art/knifes/knife_147.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_148",
+      "name": "Blade #148",
+      "sprite": "res://assets/art/knifes/knife_148.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_149",
+      "name": "Blade #149",
+      "sprite": "res://assets/art/knifes/knife_149.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_150",
+      "name": "Blade #150",
+      "sprite": "res://assets/art/knifes/knife_150.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_500",
+      "name": "Blade #500",
+      "sprite": "res://assets/art/knifes/knife_500.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_501",
+      "name": "Blade #501",
+      "sprite": "res://assets/art/knifes/knife_501.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_502",
+      "name": "Blade #502",
+      "sprite": "res://assets/art/knifes/knife_502.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_503",
+      "name": "Blade #503",
+      "sprite": "res://assets/art/knifes/knife_503.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_504",
+      "name": "Blade #504",
+      "sprite": "res://assets/art/knifes/knife_504.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_505",
+      "name": "Blade #505",
+      "sprite": "res://assets/art/knifes/knife_505.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_506",
+      "name": "Blade #506",
+      "sprite": "res://assets/art/knifes/knife_506.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_507",
+      "name": "Blade #507",
+      "sprite": "res://assets/art/knifes/knife_507.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_700",
+      "name": "Blade #700",
+      "sprite": "res://assets/art/knifes/knife_700.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_701",
+      "name": "Blade #701",
+      "sprite": "res://assets/art/knifes/knife_701.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_702",
+      "name": "Blade #702",
+      "sprite": "res://assets/art/knifes/knife_702.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_703",
+      "name": "Blade #703",
+      "sprite": "res://assets/art/knifes/knife_703.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_704",
+      "name": "Blade #704",
+      "sprite": "res://assets/art/knifes/knife_704.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_705",
+      "name": "Blade #705",
+      "sprite": "res://assets/art/knifes/knife_705.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_706",
+      "name": "Blade #706",
+      "sprite": "res://assets/art/knifes/knife_706.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_707",
+      "name": "Blade #707",
+      "sprite": "res://assets/art/knifes/knife_707.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_708",
+      "name": "Blade #708",
+      "sprite": "res://assets/art/knifes/knife_708.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_709",
+      "name": "Blade #709",
+      "sprite": "res://assets/art/knifes/knife_709.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_710",
+      "name": "Blade #710",
+      "sprite": "res://assets/art/knifes/knife_710.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_711",
+      "name": "Blade #711",
+      "sprite": "res://assets/art/knifes/knife_711.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_712",
+      "name": "Blade #712",
+      "sprite": "res://assets/art/knifes/knife_712.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_713",
+      "name": "Blade #713",
+      "sprite": "res://assets/art/knifes/knife_713.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_714",
+      "name": "Blade #714",
+      "sprite": "res://assets/art/knifes/knife_714.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_715",
+      "name": "Blade #715",
+      "sprite": "res://assets/art/knifes/knife_715.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_716",
+      "name": "Blade #716",
+      "sprite": "res://assets/art/knifes/knife_716.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_717",
+      "name": "Blade #717",
+      "sprite": "res://assets/art/knifes/knife_717.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_718",
+      "name": "Blade #718",
+      "sprite": "res://assets/art/knifes/knife_718.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_719",
+      "name": "Blade #719",
+      "sprite": "res://assets/art/knifes/knife_719.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_720",
+      "name": "Blade #720",
+      "sprite": "res://assets/art/knifes/knife_720.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_721",
+      "name": "Blade #721",
+      "sprite": "res://assets/art/knifes/knife_721.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_722",
+      "name": "Blade #722",
+      "sprite": "res://assets/art/knifes/knife_722.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_723",
+      "name": "Blade #723",
+      "sprite": "res://assets/art/knifes/knife_723.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_724",
+      "name": "Blade #724",
+      "sprite": "res://assets/art/knifes/knife_724.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_725",
+      "name": "Blade #725",
+      "sprite": "res://assets/art/knifes/knife_725.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_726",
+      "name": "Blade #726",
+      "sprite": "res://assets/art/knifes/knife_726.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_727",
+      "name": "Blade #727",
+      "sprite": "res://assets/art/knifes/knife_727.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_728",
+      "name": "Blade #728",
+      "sprite": "res://assets/art/knifes/knife_728.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_729",
+      "name": "Blade #729",
+      "sprite": "res://assets/art/knifes/knife_729.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_730",
+      "name": "Blade #730",
+      "sprite": "res://assets/art/knifes/knife_730.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_731",
+      "name": "Blade #731",
+      "sprite": "res://assets/art/knifes/knife_731.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_732",
+      "name": "Blade #732",
+      "sprite": "res://assets/art/knifes/knife_732.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_733",
+      "name": "Blade #733",
+      "sprite": "res://assets/art/knifes/knife_733.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_734",
+      "name": "Blade #734",
+      "sprite": "res://assets/art/knifes/knife_734.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_735",
+      "name": "Blade #735",
+      "sprite": "res://assets/art/knifes/knife_735.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_736",
+      "name": "Blade #736",
+      "sprite": "res://assets/art/knifes/knife_736.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_737",
+      "name": "Blade #737",
+      "sprite": "res://assets/art/knifes/knife_737.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_738",
+      "name": "Blade #738",
+      "sprite": "res://assets/art/knifes/knife_738.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_739",
+      "name": "Blade #739",
+      "sprite": "res://assets/art/knifes/knife_739.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_740",
+      "name": "Blade #740",
+      "sprite": "res://assets/art/knifes/knife_740.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_741",
+      "name": "Blade #741",
+      "sprite": "res://assets/art/knifes/knife_741.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_742",
+      "name": "Blade #742",
+      "sprite": "res://assets/art/knifes/knife_742.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_743",
+      "name": "Blade #743",
+      "sprite": "res://assets/art/knifes/knife_743.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_744",
+      "name": "Blade #744",
+      "sprite": "res://assets/art/knifes/knife_744.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_745",
+      "name": "Blade #745",
+      "sprite": "res://assets/art/knifes/knife_745.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_746",
+      "name": "Blade #746",
+      "sprite": "res://assets/art/knifes/knife_746.png",
+      "price": 2000,
+      "unlocked": false
+    },
+    {
+      "id": "knife_747",
+      "name": "Blade #747",
+      "sprite": "res://assets/art/knifes/knife_747.png",
+      "price": 2000,
+      "unlocked": false
+    }
+  ]
+}

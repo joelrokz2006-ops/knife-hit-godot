@@ -1,0 +1,76 @@
+
+subs_button.png
+size: 252,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/BUTTON3
+  rotate: true
+  xy: 2, 27
+  size: 112, 52
+  orig: 112, 52
+  offset: 0, 0
+  index: -1
+assets/beams
+  rotate: false
+  xy: 164, 59
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+assets/button1
+  rotate: true
+  xy: 56, 28
+  size: 111, 52
+  orig: 111, 52
+  offset: 0, 0
+  index: -1
+assets/button2
+  rotate: true
+  xy: 110, 28
+  size: 111, 52
+  orig: 111, 52
+  offset: 0, 0
+  index: -1
+assets/glow2
+  rotate: false
+  xy: 164, 4
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+assets/icon_BOT
+  rotate: true
+  xy: 12, 8
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+assets/icon_TOP
+  rotate: true
+  xy: 2, 8
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+assets/qube
+  rotate: false
+  xy: 219, 26
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+assets/triple_boss_xp
+  rotate: false
+  xy: 21, 14
+  size: 56, 11
+  orig: 56, 11
+  offset: 0, 0
+  index: -1
+assets/triple_xp_active
+  rotate: false
+  xy: 21, 2
+  size: 45, 10
+  orig: 45, 10
+  offset: 0, 0
+  index: -1

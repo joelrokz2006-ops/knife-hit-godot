@@ -1,0 +1,179 @@
+
+power_ups.png
+size: 1018,1011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/beams
+  rotate: false
+  xy: 2, 66
+  size: 1014, 943
+  orig: 1014, 943
+  offset: 0, 0
+  index: -1
+assets/new
+  rotate: false
+  xy: 295, 10
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+assets/side
+  rotate: true
+  xy: 2, 2
+  size: 62, 291
+  orig: 62, 291
+  offset: 0, 0
+  index: -1
+
+power_ups2.png
+size: 1014,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/apples
+  rotate: true
+  xy: 868, 26
+  size: 461, 144
+  orig: 461, 144
+  offset: 0, 0
+  index: -1
+assets/blik
+  rotate: false
+  xy: 2, 148
+  size: 864, 864
+  orig: 864, 864
+  offset: 0, 0
+  index: -1
+assets/continue
+  rotate: false
+  xy: 2, 2
+  size: 598, 144
+  orig: 598, 144
+  offset: 0, 0
+  index: -1
+assets/second
+  rotate: true
+  xy: 868, 489
+  size: 523, 144
+  orig: 523, 144
+  offset: 0, 0
+  index: -1
+assets/xp
+  rotate: false
+  xy: 602, 2
+  size: 171, 144
+  orig: 171, 144
+  offset: 0, 0
+  index: -1
+
+power_ups3.png
+size: 901,912
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/additional_continue
+  rotate: false
+  xy: 295, 2
+  size: 176, 175
+  orig: 176, 175
+  offset: 0, 0
+  index: -1
+assets/apples_for_video
+  rotate: false
+  xy: 666, 577
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+assets/bonus
+  rotate: false
+  xy: 485, 766
+  size: 414, 144
+  orig: 414, 144
+  offset: 0, 0
+  index: -1
+assets/chance
+  rotate: false
+  xy: 2, 620
+  size: 472, 144
+  orig: 472, 144
+  offset: 0, 0
+  index: -1
+assets/duble
+  rotate: false
+  xy: 2, 766
+  size: 481, 144
+  orig: 481, 144
+  offset: 0, 0
+  index: -1
+assets/duble_xp
+  rotate: false
+  xy: 476, 577
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1
+assets/exstra
+  rotate: true
+  xy: 297, 179
+  size: 439, 144
+  orig: 439, 144
+  offset: 0, 0
+  index: -1
+assets/golden_apple
+  rotate: false
+  xy: 443, 388
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+assets/icon
+  rotate: false
+  xy: 2, 32
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+assets/knife_machine
+  rotate: false
+  xy: 443, 199
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+assets/laser_cannon
+  rotate: false
+  xy: 632, 388
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+assets/magic_hammer
+  rotate: false
+  xy: 632, 199
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+assets/morre_apples
+  rotate: false
+  xy: 473, 10
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+assets/question
+  rotate: false
+  xy: 2, 325
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+assets/tesla_rod
+  rotate: false
+  xy: 662, 10
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1

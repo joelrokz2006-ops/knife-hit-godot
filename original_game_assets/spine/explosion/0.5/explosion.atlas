@@ -1,0 +1,27 @@
+
+explosion.png
+size: 547,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: false
+  xy: 2, 2
+  size: 502, 502
+  orig: 502, 502
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 506, 292
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+trawel_beam_1
+  rotate: false
+  xy: 506, 320
+  size: 39, 184
+  orig: 39, 184
+  offset: 0, 0
+  index: -1

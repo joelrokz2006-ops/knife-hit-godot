@@ -1,0 +1,167 @@
+
+power_ups.png
+size: 721,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/additional_continue
+  rotate: false
+  xy: 240, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+assets/apples
+  rotate: false
+  xy: 590, 152
+  size: 115, 36
+  orig: 115, 36
+  offset: 0, 0
+  index: -1
+assets/apples_for_video
+  rotate: false
+  xy: 476, 9
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+assets/beams
+  rotate: true
+  xy: 2, 10
+  size: 254, 236
+  orig: 254, 236
+  offset: 0, 0
+  index: -1
+assets/blik
+  rotate: false
+  xy: 240, 48
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+assets/bonus
+  rotate: false
+  xy: 608, 190
+  size: 104, 36
+  orig: 104, 36
+  offset: 0, 0
+  index: -1
+assets/chance
+  rotate: true
+  xy: 534, 146
+  size: 118, 36
+  orig: 118, 36
+  offset: 0, 0
+  index: -1
+assets/continue
+  rotate: false
+  xy: 324, 10
+  size: 150, 36
+  orig: 150, 36
+  offset: 0, 0
+  index: -1
+assets/duble
+  rotate: true
+  xy: 496, 144
+  size: 120, 36
+  orig: 120, 36
+  offset: 0, 0
+  index: -1
+assets/duble_xp
+  rotate: false
+  xy: 525, 9
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+assets/exstra
+  rotate: false
+  xy: 608, 228
+  size: 110, 36
+  orig: 110, 36
+  offset: 0, 0
+  index: -1
+assets/golden_apple
+  rotate: false
+  xy: 574, 20
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+assets/icon
+  rotate: false
+  xy: 458, 58
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+assets/knife_machine
+  rotate: false
+  xy: 608, 103
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+assets/laser_cannon
+  rotate: false
+  xy: 657, 103
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+assets/magic_hammer
+  rotate: false
+  xy: 623, 54
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+assets/morre_apples
+  rotate: false
+  xy: 672, 54
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+assets/new
+  rotate: true
+  xy: 590, 251
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+assets/question
+  rotate: false
+  xy: 533, 69
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+assets/second
+  rotate: true
+  xy: 458, 133
+  size: 131, 36
+  orig: 131, 36
+  offset: 0, 0
+  index: -1
+assets/side
+  rotate: false
+  xy: 572, 153
+  size: 16, 73
+  orig: 16, 73
+  offset: 0, 0
+  index: -1
+assets/tesla_rod
+  rotate: false
+  xy: 623, 5
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+assets/xp
+  rotate: true
+  xy: 286, 3
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1

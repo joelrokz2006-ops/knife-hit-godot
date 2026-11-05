@@ -1,0 +1,1138 @@
+
+challenge_bosses_kingdom.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T9
+  rotate: false
+  xy: 750, 313
+  size: 563, 563
+  orig: 563, 563
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/0_2_head
+  rotate: false
+  xy: 1870, 495
+  size: 175, 470
+  orig: 175, 470
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/1_1_scale
+  rotate: true
+  xy: 717, 366
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/9
+  rotate: true
+  xy: 762, 1445
+  size: 601, 594
+  orig: 601, 594
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_0_head_acc
+  rotate: false
+  xy: 1987, 986
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_0_head_hair
+  rotate: true
+  xy: 2025, 329
+  size: 59, 17
+  orig: 59, 17
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_2_mouth
+  rotate: false
+  xy: 1320, 878
+  size: 231, 87
+  orig: 231, 87
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/1_4_gem_crown
+  rotate: false
+  xy: 717, 410
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/1_4_gem_half_crown
+  rotate: false
+  xy: 2018, 16
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/1_4_spike_half_crown
+  rotate: false
+  xy: 1987, 1455
+  size: 59, 113
+  orig: 59, 113
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/3_3_mouth
+  rotate: true
+  xy: 1987, 1086
+  size: 167, 53
+  orig: 167, 53
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/4_4_mouth
+  rotate: false
+  xy: 1553, 891
+  size: 314, 74
+  orig: 314, 74
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/4_6_backenbard
+  rotate: false
+  xy: 1978, 73
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/5_8_crown
+  rotate: true
+  xy: 1987, 1255
+  size: 198, 56
+  orig: 198, 56
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/5_8_spike_shadow
+  rotate: true
+  xy: 433, 2
+  size: 37, 135
+  orig: 37, 135
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/6_8_blik
+  rotate: false
+  xy: 1178, 19
+  size: 134, 292
+  orig: 134, 292
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/7_7_eye
+  rotate: true
+  xy: 1902, 1462
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/8_8_wrinkle
+  rotate: false
+  xy: 1553, 879
+  size: 67, 10
+  orig: 67, 10
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/9
+  rotate: false
+  xy: 1315, 310
+  size: 553, 566
+  orig: 553, 566
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/0_1_eye
+  rotate: true
+  xy: 1978, 2
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/0_1_helmet
+  rotate: true
+  xy: 569, 1227
+  size: 269, 182
+  orig: 269, 182
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/0_1_outline
+  rotate: false
+  xy: 1825, 3
+  size: 151, 305
+  orig: 151, 305
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/0_5_wrinkles
+  rotate: false
+  xy: 569, 989
+  size: 181, 236
+  orig: 181, 236
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/1_1_helmet
+  rotate: false
+  xy: 433, 41
+  size: 314, 321
+  orig: 314, 321
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/1_1_mouth
+  rotate: false
+  xy: 657, 6
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/2_5_otline
+  rotate: false
+  xy: 569, 456
+  size: 174, 311
+  orig: 174, 311
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/4_5_gem
+  rotate: false
+  xy: 569, 366
+  size: 107, 88
+  orig: 107, 88
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/5_5__body fire_add
+  rotate: false
+  xy: 569, 769
+  size: 179, 218
+  orig: 179, 218
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/6_6_horn
+  rotate: true
+  xy: 1987, 1011
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/6_7_body
+  rotate: true
+  xy: 749, 3
+  size: 308, 427
+  orig: 308, 427
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/7_7_helmet
+  rotate: true
+  xy: 2, 4
+  size: 358, 429
+  orig: 358, 429
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/9
+  rotate: false
+  xy: 2, 1498
+  size: 758, 548
+  orig: 758, 548
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/0_1_crack_small
+  rotate: false
+  xy: 1902, 1447
+  size: 58, 13
+  orig: 58, 13
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/0_3_tower
+  rotate: false
+  xy: 1314, 3
+  size: 509, 305
+  orig: 509, 305
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/1_8_banner_blik
+  rotate: false
+  xy: 1178, 6
+  size: 133, 11
+  orig: 133, 11
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/1_8_front_banner_top
+  rotate: true
+  xy: 2025, 390
+  size: 103, 21
+  orig: 103, 21
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/1_9_bannder_top_sidde
+  rotate: true
+  xy: 2025, 1955
+  size: 91, 19
+  orig: 91, 19
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/1_9_banner_top_outline
+  rotate: false
+  xy: 1622, 884
+  size: 61, 5
+  orig: 61, 5
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/3_8_bone
+  rotate: true
+  xy: 678, 364
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/4_6_glow
+  rotate: false
+  xy: 1358, 1445
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/5_6_helm_acc
+  rotate: true
+  xy: 1978, 161
+  size: 148, 65
+  orig: 148, 65
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/6_8_gem
+  rotate: false
+  xy: 717, 381
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/7_7_glowe
+  rotate: false
+  xy: 1494, 1445
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/7_8_eye
+  rotate: false
+  xy: 1987, 967
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/7_8_mouth
+  rotate: false
+  xy: 570, 2
+  size: 85, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/8_8_glowe
+  rotate: false
+  xy: 1630, 1445
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/9_9_glowe
+  rotate: false
+  xy: 1766, 1445
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/9_9_sholder
+  rotate: true
+  xy: 1870, 311
+  size: 182, 153
+  orig: 182, 153
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/P34
+  rotate: true
+  xy: 1320, 967
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/P35
+  rotate: true
+  xy: 1358, 1570
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/T4
+  rotate: false
+  xy: 2, 931
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/T5
+  rotate: false
+  xy: 753, 878
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/T6
+  rotate: false
+  xy: 2, 364
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+
+challenge_bosses_kingdom2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+challenges/kingdoms/dragon/0_0_flaps
+  rotate: false
+  xy: 961, 1585
+  size: 248, 461
+  orig: 248, 461
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/1_1_flaps
+  rotate: false
+  xy: 1211, 1586
+  size: 248, 460
+  orig: 248, 460
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/1_2_teaths
+  rotate: false
+  xy: 480, 1382
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/2_2_flaps
+  rotate: false
+  xy: 1461, 1586
+  size: 248, 460
+  orig: 248, 460
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/2_2_horn
+  rotate: true
+  xy: 1450, 461
+  size: 140, 299
+  orig: 140, 299
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/3_3_face
+  rotate: false
+  xy: 480, 1542
+  size: 248, 504
+  orig: 248, 504
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/4_4_flaps
+  rotate: false
+  xy: 891, 924
+  size: 249, 460
+  orig: 249, 460
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/4_6_face
+  rotate: false
+  xy: 714, 910
+  size: 175, 470
+  orig: 175, 470
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/5_8_aura
+  rotate: false
+  xy: 1532, 243
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/6_7_horn
+  rotate: true
+  xy: 1743, 101
+  size: 140, 299
+  orig: 140, 299
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/8_8_head
+  rotate: false
+  xy: 730, 1576
+  size: 229, 470
+  orig: 229, 470
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/ripples
+  rotate: false
+  xy: 1743, 10
+  size: 260, 89
+  orig: 260, 89
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_2_eye
+  rotate: false
+  xy: 1750, 247
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_5_blik
+  rotate: true
+  xy: 1451, 603
+  size: 194, 243
+  orig: 194, 243
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_5_face
+  rotate: true
+  xy: 1080, 1389
+  size: 194, 383
+  orig: 194, 383
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_5_shadow
+  rotate: false
+  xy: 826, 2
+  size: 192, 319
+  orig: 192, 319
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_6_hear_pice
+  rotate: true
+  xy: 714, 835
+  size: 73, 101
+  orig: 73, 101
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_8_eyebrow_L
+  rotate: true
+  xy: 648, 1382
+  size: 158, 92
+  orig: 158, 92
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_8_eyebrow_R
+  rotate: false
+  xy: 1290, 582
+  size: 158, 92
+  orig: 158, 92
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_8_nose
+  rotate: false
+  xy: 1018, 597
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/1_4_crown
+  rotate: true
+  xy: 742, 1384
+  size: 190, 77
+  orig: 190, 77
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/1_4_spike_crown
+  rotate: false
+  xy: 1289, 463
+  size: 101, 117
+  orig: 101, 117
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/2_4_bet_crown
+  rotate: false
+  xy: 584, 297
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/2_5_wrinkle
+  rotate: true
+  xy: 1696, 604
+  size: 163, 44
+  orig: 163, 44
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/5_5_mouth
+  rotate: false
+  xy: 817, 836
+  size: 209, 72
+  orig: 209, 72
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/6_7_gem_crown
+  rotate: true
+  xy: 533, 297
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/7_8_backenbards
+  rotate: false
+  xy: 1020, 231
+  size: 151, 92
+  orig: 151, 92
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/7_8_ear
+  rotate: false
+  xy: 1028, 774
+  size: 112, 148
+  orig: 112, 148
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/8_8_eye
+  rotate: false
+  xy: 1911, 251
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/0_0_mouth
+  rotate: false
+  xy: 460, 295
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/0_1_face
+  rotate: false
+  xy: 1751, 478
+  size: 295, 289
+  orig: 295, 289
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/0_5_body
+  rotate: true
+  xy: 432, 5
+  size: 281, 392
+  orig: 281, 392
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/1_1_helmet_mid
+  rotate: true
+  xy: 1020, 128
+  size: 101, 149
+  orig: 101, 149
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/1_1_helmet_side_L
+  rotate: false
+  xy: 1392, 497
+  size: 44, 83
+  orig: 44, 83
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/1_1_helmet_side_R
+  rotate: false
+  xy: 1865, 248
+  size: 44, 83
+  orig: 44, 83
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/2_3_helmet
+  rotate: false
+  xy: 1142, 968
+  size: 314, 419
+  orig: 314, 419
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/3_3_helmet_acc_2
+  rotate: false
+  xy: 971, 777
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/3_5_body_acc
+  rotate: false
+  xy: 1751, 333
+  size: 276, 143
+  orig: 276, 143
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/4_4_helmet
+  rotate: false
+  xy: 1710, 951
+  size: 327, 419
+  orig: 327, 419
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/4_5_body_fire
+  rotate: true
+  xy: 1465, 1339
+  size: 245, 243
+  orig: 245, 243
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/5_6_helmet
+  rotate: false
+  xy: 1173, 7
+  size: 357, 452
+  orig: 357, 452
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/6_7_body_fire
+  rotate: true
+  xy: 1142, 676
+  size: 290, 307
+  orig: 290, 307
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/0_1_crack_big
+  rotate: false
+  xy: 358, 288
+  size: 100, 32
+  orig: 100, 32
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/0_4_club
+  rotate: false
+  xy: 1705, 860
+  size: 327, 89
+  orig: 327, 89
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/0_9_body
+  rotate: false
+  xy: 2, 2
+  size: 428, 281
+  orig: 428, 281
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/0_9_hand_L
+  rotate: false
+  xy: 1532, 7
+  size: 209, 234
+  orig: 209, 234
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/0_9_hand_R
+  rotate: true
+  xy: 821, 1386
+  size: 188, 156
+  orig: 188, 156
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/1_9_banner_side
+  rotate: false
+  xy: 971, 587
+  size: 45, 188
+  orig: 45, 188
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/2_3_sholder
+  rotate: true
+  xy: 1173, 461
+  size: 125, 114
+  orig: 125, 114
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/2_4_club_acc
+  rotate: false
+  xy: 1020, 4
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/4_5_tower
+  rotate: true
+  xy: 358, 322
+  size: 509, 304
+  orig: 509, 304
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/5_7_club
+  rotate: false
+  xy: 1705, 769
+  size: 327, 89
+  orig: 327, 89
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/5_8_crown
+  rotate: true
+  xy: 2005, 27
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/5_9_wood
+  rotate: false
+  xy: 1020, 644
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/6_9_tower
+  rotate: true
+  xy: 664, 323
+  size: 508, 305
+  orig: 508, 305
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/7_7_helmet
+  rotate: false
+  xy: 1139, 588
+  size: 149, 86
+  orig: 149, 86
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/8_8_club
+  rotate: false
+  xy: 1711, 1876
+  size: 332, 170
+  orig: 332, 170
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/8_8_helmet
+  rotate: true
+  xy: 979, 1386
+  size: 197, 99
+  orig: 197, 99
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/9_9_front_banner_all
+  rotate: false
+  xy: 971, 325
+  size: 200, 260
+  orig: 200, 260
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/9_9_sheld
+  rotate: true
+  xy: 1458, 799
+  size: 209, 245
+  orig: 209, 245
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/P14
+  rotate: false
+  xy: 1458, 1010
+  size: 250, 327
+  orig: 250, 327
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/P15
+  rotate: true
+  xy: 1711, 1624
+  size: 250, 328
+  orig: 250, 328
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/P16
+  rotate: true
+  xy: 1711, 1372
+  size: 250, 328
+  orig: 250, 328
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/P24
+  rotate: false
+  xy: 2, 833
+  size: 354, 546
+  orig: 354, 546
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/P25
+  rotate: false
+  xy: 2, 285
+  size: 354, 546
+  orig: 354, 546
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/P26
+  rotate: false
+  xy: 358, 833
+  size: 354, 546
+  orig: 354, 546
+  offset: 0, 0
+  index: -1
+kingdoms_wooden_targets/P36
+  rotate: false
+  xy: 2, 1381
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+
+challenge_bosses_kingdom3.png
+size: 1912,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+challenges/kingdoms/dragon/5_5_spike
+  rotate: true
+  xy: 1354, 442
+  size: 146, 129
+  orig: 146, 129
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/6_8_spike
+  rotate: true
+  xy: 1485, 443
+  size: 145, 128
+  orig: 145, 128
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/dragon/7_7_head
+  rotate: false
+  xy: 2, 167
+  size: 175, 421
+  orig: 175, 421
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_0_crovn
+  rotate: true
+  xy: 781, 12
+  size: 193, 125
+  orig: 193, 125
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_4_hear
+  rotate: true
+  xy: 840, 219
+  size: 369, 170
+  orig: 369, 170
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/0_6_eare
+  rotate: false
+  xy: 1635, 14
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/3_3_eye
+  rotate: false
+  xy: 1113, 229
+  size: 137, 82
+  orig: 137, 82
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/4_4_eye
+  rotate: false
+  xy: 1252, 232
+  size: 137, 82
+  orig: 137, 82
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/4_8_bierd_half
+  rotate: true
+  xy: 908, 17
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/5_5_eye
+  rotate: true
+  xy: 1534, 189
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/5_8_hair
+  rotate: true
+  xy: 1012, 290
+  size: 298, 99
+  orig: 298, 99
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/5_8_spike_crown
+  rotate: true
+  xy: 1744, 294
+  size: 72, 138
+  orig: 72, 138
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/6_6_eye
+  rotate: true
+  xy: 908, 63
+  size: 154, 121
+  orig: 154, 121
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/6_7_mouth
+  rotate: true
+  xy: 717, 207
+  size: 381, 121
+  orig: 381, 121
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/6_8_face
+  rotate: false
+  xy: 179, 179
+  size: 208, 409
+  orig: 208, 409
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/6_8_shadow
+  rotate: true
+  xy: 272, 3
+  size: 174, 404
+  orig: 174, 404
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/7_8_hair_pice
+  rotate: true
+  xy: 1635, 117
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/goblin_king/8_8_mouth_half
+  rotate: true
+  xy: 159, 10
+  size: 155, 111
+  orig: 155, 111
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/0_0_horn
+  rotate: true
+  xy: 1738, 14
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/0_2_body_acc
+  rotate: true
+  xy: 1214, 316
+  size: 272, 138
+  orig: 272, 138
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/1_1_gem
+  rotate: false
+  xy: 1812, 20
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/2_3_gem
+  rotate: false
+  xy: 1812, 99
+  size: 98, 80
+  orig: 98, 80
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/3_3_helm_acc
+  rotate: true
+  xy: 1012, 224
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/6_6_gem
+  rotate: false
+  xy: 1617, 196
+  size: 125, 112
+  orig: 125, 112
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/7_7_gem
+  rotate: false
+  xy: 1744, 181
+  size: 125, 111
+  orig: 125, 111
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/knight/blik
+  rotate: true
+  xy: 1113, 313
+  size: 275, 99
+  orig: 275, 99
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/1_8_front_baneroutline
+  rotate: false
+  xy: 1362, 12
+  size: 133, 218
+  orig: 133, 218
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/1_8_front_banner
+  rotate: false
+  xy: 678, 6
+  size: 101, 173
+  orig: 101, 173
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/1_9_banner_outline_side
+  rotate: false
+  xy: 1031, 2
+  size: 104, 220
+  orig: 104, 220
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/2_9_belt
+  rotate: true
+  xy: 1615, 444
+  size: 144, 126
+  orig: 144, 126
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/3_3_helmet
+  rotate: false
+  xy: 1391, 244
+  size: 141, 81
+  orig: 141, 81
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/3_6_club_acc
+  rotate: false
+  xy: 1743, 451
+  size: 142, 137
+  orig: 142, 137
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/4_6_helm
+  rotate: false
+  xy: 1743, 368
+  size: 141, 81
+  orig: 141, 81
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/4_6_sholder
+  rotate: false
+  xy: 1354, 327
+  size: 132, 113
+  orig: 132, 113
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/7_7_club_acc
+  rotate: true
+  xy: 2, 9
+  size: 156, 155
+  orig: 156, 155
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/7_7_sholder
+  rotate: false
+  xy: 1488, 328
+  size: 132, 113
+  orig: 132, 113
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/8_8_sheld
+  rotate: true
+  xy: 1497, 49
+  size: 138, 136
+  orig: 138, 136
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/8_8_sholder
+  rotate: true
+  xy: 1622, 310
+  size: 132, 113
+  orig: 132, 113
+  offset: 0, 0
+  index: -1
+challenges/kingdoms/ogre/9_9_head_club_jelmet
+  rotate: true
+  xy: 389, 181
+  size: 407, 326
+  orig: 407, 326
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 1137, 4
+  size: 223, 223
+  orig: 223, 223
+  offset: 0, 0
+  index: -1

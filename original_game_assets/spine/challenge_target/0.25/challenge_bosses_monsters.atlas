@@ -1,0 +1,832 @@
+
+challenge_bosses_monsters.png
+size: 1953,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P1
+  rotate: false
+  xy: 1809, 193
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+P12
+  rotate: true
+  xy: 1812, 309
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+P13
+  rotate: true
+  xy: 1863, 11
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+P2
+  rotate: false
+  xy: 1430, 132
+  size: 89, 137
+  orig: 89, 137
+  offset: 0, 0
+  index: -1
+P22
+  rotate: false
+  xy: 1473, 273
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+P23
+  rotate: false
+  xy: 1521, 135
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+P3
+  rotate: false
+  xy: 317, 7
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+P32
+  rotate: false
+  xy: 438, 7
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+P33
+  rotate: false
+  xy: 559, 7
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+T1
+  rotate: false
+  xy: 1132, 268
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 1030, 117
+  size: 141, 142
+  orig: 141, 142
+  offset: 0, 0
+  index: -1
+T3
+  rotate: false
+  xy: 1173, 125
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+T9
+  rotate: false
+  xy: 1275, 268
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_10
+  rotate: true
+  xy: 521, 224
+  size: 185, 172
+  orig: 185, 172
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_L_helm_addition_9
+  rotate: true
+  xy: 1781, 169
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_L_side_helmet_7
+  rotate: true
+  xy: 227, 175
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_L_side_helmet_8_to_9
+  rotate: false
+  xy: 1677, 24
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_R_helm_addition_9
+  rotate: true
+  xy: 1797, 169
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_R_side_helmet_7
+  rotate: true
+  xy: 292, 175
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_R_side_helmet_8_to_9
+  rotate: false
+  xy: 1639, 300
+  size: 59, 109
+  orig: 59, 109
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_band_1
+  rotate: true
+  xy: 1607, 274
+  size: 135, 30
+  orig: 135, 30
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_band_2
+  rotate: true
+  xy: 1418, 271
+  size: 138, 53
+  orig: 138, 53
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_brows_1_to_1
+  rotate: true
+  xy: 1217, 7
+  size: 116, 24
+  orig: 116, 24
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_face_paint_4_to_5
+  rotate: false
+  xy: 520, 211
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_face_paint_6_to_9
+  rotate: false
+  xy: 542, 211
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_head_1_to_6
+  rotate: true
+  xy: 161, 2
+  size: 171, 154
+  orig: 171, 154
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_head_7_to_9
+  rotate: true
+  xy: 2, 2
+  size: 171, 157
+  orig: 171, 157
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_helmet_3
+  rotate: true
+  xy: 1476, 2
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_helmet_4
+  rotate: true
+  xy: 877, 24
+  size: 152, 99
+  orig: 152, 99
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_helmet_5
+  rotate: true
+  xy: 927, 257
+  size: 152, 99
+  orig: 152, 99
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_helmet_6_to_9
+  rotate: true
+  xy: 1028, 261
+  size: 148, 102
+  orig: 148, 102
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_helmet_top_9
+  rotate: true
+  xy: 978, 30
+  size: 146, 50
+  orig: 146, 50
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_middle_facepaint_8_to_9
+  rotate: false
+  xy: 473, 211
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_ring_2_to_7
+  rotate: false
+  xy: 1873, 167
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_ring_8_to_9
+  rotate: false
+  xy: 1873, 145
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_small_ring_9
+  rotate: false
+  xy: 564, 211
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_smile_9
+  rotate: false
+  xy: 357, 175
+  size: 89, 34
+  orig: 89, 34
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/orc_upper_facepaint_7_to_9
+  rotate: true
+  xy: 566, 188
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+challenges/monsters/orc/assets/shadow_6_to_9
+  rotate: true
+  xy: 1316, 126
+  size: 140, 51
+  orig: 140, 51
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/10_eye_10
+  rotate: false
+  xy: 959, 178
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/10_hair_10
+  rotate: false
+  xy: 1128, 2
+  size: 87, 113
+  orig: 87, 113
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/10_hair_acc_10
+  rotate: true
+  xy: 1740, 2
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/10_hair_curwe_10
+  rotate: false
+  xy: 441, 211
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/10_mouth_10
+  rotate: true
+  xy: 448, 175
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/10_necless_acc_10
+  rotate: true
+  xy: 538, 175
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/1_FACE_10
+  rotate: false
+  xy: 739, 14
+  size: 136, 161
+  orig: 136, 161
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/1_colar_1
+  rotate: true
+  xy: 695, 227
+  size: 182, 73
+  orig: 182, 73
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/1_eare_10
+  rotate: false
+  xy: 1620, 2
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/1_eye_hole_1
+  rotate: false
+  xy: 1896, 217
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/1_eyebrow_10
+  rotate: false
+  xy: 340, 211
+  size: 56, 11
+  orig: 56, 11
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/1_nose_5
+  rotate: false
+  xy: 1873, 251
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/1_wrincles_5
+  rotate: false
+  xy: 1806, 277
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/2_COLLAR_4
+  rotate: true
+  xy: 1611, 162
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/2_EYE_9
+  rotate: false
+  xy: 1826, 38
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/2_heare_3
+  rotate: true
+  xy: 1761, 276
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/3_collar_acc_4
+  rotate: true
+  xy: 1381, 15
+  size: 111, 26
+  orig: 111, 26
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/3_heare_3
+  rotate: false
+  xy: 1719, 275
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/3_mouth_5
+  rotate: true
+  xy: 500, 175
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/4_hear_4
+  rotate: true
+  xy: 1315, 10
+  size: 113, 64
+  orig: 113, 64
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/4_hear_acc_4
+  rotate: true
+  xy: 1896, 312
+  size: 16, 54
+  orig: 16, 54
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/5_collar_8
+  rotate: true
+  xy: 1563, 274
+  size: 135, 42
+  orig: 135, 42
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/5_hear_6
+  rotate: true
+  xy: 815, 178
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/6_mouth_7
+  rotate: false
+  xy: 1896, 175
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/6_necless_8
+  rotate: false
+  xy: 1812, 373
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/6_nose_10
+  rotate: false
+  xy: 609, 176
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/6_wrincles_10
+  rotate: true
+  xy: 398, 211
+  size: 11, 41
+  orig: 11, 41
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/7_hear_7
+  rotate: false
+  xy: 1739, 35
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/7_necless_acc_9
+  rotate: false
+  xy: 1873, 189
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/8_collar_acc_8
+  rotate: true
+  xy: 1700, 302
+  size: 107, 21
+  orig: 107, 21
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/8_hear_9
+  rotate: false
+  xy: 1723, 307
+  size: 87, 102
+  orig: 87, 102
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/8_mouth_9
+  rotate: true
+  xy: 714, 177
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/9_chain_10
+  rotate: true
+  xy: 1753, 182
+  size: 91, 26
+  orig: 91, 26
+  offset: 0, 0
+  index: -1
+challenges/monsters/vampire/assets/9_collar_10
+  rotate: true
+  xy: 680, 3
+  size: 172, 57
+  orig: 172, 57
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/10_face_10
+  rotate: false
+  xy: 2, 175
+  size: 223, 234
+  orig: 223, 234
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_back_hat_4
+  rotate: true
+  xy: 1786, 135
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_colar_5
+  rotate: false
+  xy: 1639, 275
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_face_9
+  rotate: false
+  xy: 1243, 9
+  size: 70, 114
+  orig: 70, 114
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_facecower_4
+  rotate: false
+  xy: 1030, 33
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_hair_L_9
+  rotate: false
+  xy: 636, 177
+  size: 76, 45
+  orig: 76, 45
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_hair_R_9
+  rotate: false
+  xy: 1873, 373
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_hair_blick1_9
+  rotate: false
+  xy: 1873, 216
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_hair_blick2_9
+  rotate: true
+  xy: 497, 211
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_hair_blick3_9
+  rotate: false
+  xy: 566, 175
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_hair_mid_9
+  rotate: true
+  xy: 1620, 23
+  size: 110, 55
+  orig: 110, 55
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_hat_4
+  rotate: true
+  xy: 227, 210
+  size: 199, 111
+  orig: 199, 111
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_neck_5
+  rotate: true
+  xy: 1781, 184
+  size: 90, 26
+  orig: 90, 26
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_smile_3
+  rotate: false
+  xy: 1611, 135
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/1_sting_9
+  rotate: false
+  xy: 1896, 267
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/2_hat_net_4
+  rotate: true
+  xy: 1596, 4
+  size: 129, 22
+  orig: 129, 22
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/2_hat_net_shadow_4
+  rotate: false
+  xy: 997, 2
+  size: 129, 26
+  orig: 129, 26
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/4_smile_9
+  rotate: true
+  xy: 922, 180
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/5_hair_blick_9
+  rotate: false
+  xy: 577, 176
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/5_hat_net_9
+  rotate: false
+  xy: 877, 2
+  size: 81, 20
+  orig: 81, 20
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/5_hat_net_blick_9
+  rotate: false
+  xy: 1896, 295
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/5_hat_ring_8
+  rotate: true
+  xy: 1531, 3
+  size: 130, 63
+  orig: 130, 63
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/5_hat_top_8
+  rotate: false
+  xy: 1030, 77
+  size: 95, 38
+  orig: 95, 38
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/6_collar_6
+  rotate: true
+  xy: 1712, 169
+  size: 104, 39
+  orig: 104, 39
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/7_collar_9
+  rotate: true
+  xy: 1669, 169
+  size: 104, 41
+  orig: 104, 41
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/hair_shadow
+  rotate: false
+  xy: 1827, 282
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/hair_shadow2
+  rotate: false
+  xy: 960, 2
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+challenges/monsters/witch/assets/hair_top
+  rotate: true
+  xy: 1409, 16
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/1_body_9
+  rotate: false
+  xy: 770, 254
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/1_eye_brow_L_9
+  rotate: false
+  xy: 1681, 135
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/1_eye_brow_R_9
+  rotate: false
+  xy: 1826, 98
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/2_rad_3
+  rotate: false
+  xy: 1710, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/2_rad_9
+  rotate: false
+  xy: 1893, 75
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/4_mouth_9
+  rotate: true
+  xy: 770, 177
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/4_rad_9
+  rotate: false
+  xy: 1814, 135
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/5_head_acc_5
+  rotate: false
+  xy: 1672, 2
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/5_rad2_9
+  rotate: true
+  xy: 1784, 277
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/5_rad_9
+  rotate: false
+  xy: 1749, 135
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/6_head_acc_6
+  rotate: false
+  xy: 1796, 4
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/7_head_acc_9
+  rotate: false
+  xy: 1896, 330
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/8_chain_10
+  rotate: true
+  xy: 1369, 128
+  size: 138, 59
+  orig: 138, 59
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/9_hed_acc_L_9
+  rotate: false
+  xy: 1756, 3
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/9_hed_acc_R_9
+  rotate: true
+  xy: 1096, 35
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+challenges/monsters/zomie/assets/z10
+  rotate: false
+  xy: 340, 224
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 1895, 117
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1

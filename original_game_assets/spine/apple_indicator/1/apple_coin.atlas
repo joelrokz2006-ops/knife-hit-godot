@@ -1,0 +1,27 @@
+
+apple_coin.png
+size: 284,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_apple
+  rotate: true
+  xy: 2, 2
+  size: 142, 118
+  orig: 142, 118
+  offset: 0, 0
+  index: -1
+front_apple
+  rotate: true
+  xy: 122, 2
+  size: 142, 116
+  orig: 142, 116
+  offset: 0, 0
+  index: -1
+leve
+  rotate: false
+  xy: 240, 84
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1

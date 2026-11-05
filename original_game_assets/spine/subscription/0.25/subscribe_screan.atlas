@@ -1,0 +1,69 @@
+
+subscribe_screan.png
+size: 567,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/ads
+  rotate: false
+  xy: 508, 2
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1
+assets/apples
+  rotate: true
+  xy: 432, 91
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+assets/beems
+  rotate: false
+  xy: 2, 6
+  size: 428, 398
+  orig: 428, 398
+  offset: 0, 0
+  index: -1
+assets/box
+  rotate: true
+  xy: 432, 231
+  size: 89, 94
+  orig: 89, 94
+  offset: 0, 0
+  index: -1
+assets/gold_field
+  rotate: true
+  xy: 432, 322
+  size: 82, 110
+  orig: 82, 110
+  offset: 0, 0
+  index: -1
+assets/qube
+  rotate: false
+  xy: 528, 289
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+assets/star
+  rotate: false
+  xy: 544, 386
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+assets/text
+  rotate: false
+  xy: 432, 167
+  size: 115, 62
+  orig: 115, 62
+  offset: 0, 0
+  index: -1
+assets/xp
+  rotate: false
+  xy: 432, 9
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1

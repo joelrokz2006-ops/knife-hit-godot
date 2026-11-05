@@ -1,0 +1,63 @@
+[gd_scene load_steps=7 format=3 uid="uid://df2m4k8p9o1e5"]
+
+[ext_resource type="Script" path="res://scripts/game/GameDirector.gd" id="1_director"]
+[ext_resource type="Texture2D" path="res://assets/art/bg/bg0.png" id="2_bg"]
+[ext_resource type="PackedScene" path="res://scenes/game/Target.tscn" id="3_target"]
+[ext_resource type="Script" path="res://scripts/game/HitFX.gd" id="4_hitfx"]
+[ext_resource type="PackedScene" path="res://scenes/ui/Hud.tscn" id="5_hud"]
+[ext_resource type="PackedScene" path="res://scenes/ui/GameOverView.tscn" id="6_gameover"]
+[ext_resource type="PackedScene" path="res://scenes/ui/PauseView.tscn" id="7_pause"]
+
+[node name="Game" type="Node2D"]
+script = ExtResource("1_director")
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(540, 960)
+scale = Vector2(2.5, 4)
+texture = ExtResource("2_bg")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(540, 960)
+
+[node name="World" type="Node2D" parent="."]
+
+[node name="Target" parent="World" instance=ExtResource("3_target")]
+position = Vector2(540, 480)
+
+[node name="FX" type="Node2D" parent="." node_paths=PackedStringArray("camera")]
+script = ExtResource("4_hitfx")
+camera = NodePath("../Camera2D")
+
+[node name="SparkParticles" type="CPUParticles2D" parent="FX"]
+emitting = false
+amount = 25
+lifetime = 0.45
+one_shot = true
+explosiveness = 1.0
+spread = 180.0
+gravity = Vector2(0, 800)
+initial_velocity_min = 280.0
+initial_velocity_max = 650.0
+scale_amount_min = 5.0
+scale_amount_max = 9.0
+color = Color(1, 0.8, 0.4, 1)
+
+[node name="AppleParticles" type="CPUParticles2D" parent="FX"]
+emitting = false
+amount = 22
+lifetime = 0.5
+one_shot = true
+explosiveness = 0.95
+spread = 180.0
+gravity = Vector2(0, 950)
+initial_velocity_min = 250.0
+initial_velocity_max = 550.0
+scale_amount_min = 6.0
+scale_amount_max = 11.0
+color = Color(0.95, 0.18, 0.18, 1)
+
+[node name="HUD" parent="." instance=ExtResource("5_hud")]
+
+[node name="GameOverView" parent="." instance=ExtResource("6_gameover")]
+
+[node name="PauseView" parent="." instance=ExtResource("7_pause")]

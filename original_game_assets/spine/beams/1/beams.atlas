@@ -1,0 +1,26 @@
+
+beams.png
+size: 966,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beams_bright
+  rotate: false
+  xy: 2, 2
+  size: 962, 894
+  orig: 962, 894
+  offset: 0, 0
+  index: -1
+
+beams2.png
+size: 756,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blur
+  rotate: false
+  xy: 2, 2
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1

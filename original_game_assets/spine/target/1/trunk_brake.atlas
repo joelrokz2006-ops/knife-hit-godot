@@ -1,0 +1,873 @@
+
+trunk_brake.png
+size: 2048,2047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P1
+  rotate: true
+  xy: 1720, 536
+  size: 248, 326
+  orig: 248, 326
+  offset: 0, 0
+  index: -1
+P12
+  rotate: true
+  xy: 1720, 286
+  size: 248, 326
+  orig: 248, 326
+  offset: 0, 0
+  index: -1
+P13
+  rotate: true
+  xy: 1720, 36
+  size: 248, 326
+  orig: 248, 326
+  offset: 0, 0
+  index: -1
+P310
+  rotate: true
+  xy: 2, 959
+  size: 477, 667
+  orig: 477, 667
+  offset: 0, 0
+  index: -1
+P32
+  rotate: true
+  xy: 671, 926
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P33
+  rotate: true
+  xy: 2, 481
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P34
+  rotate: true
+  xy: 423, 3
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+legendary/diwing_cower_open
+  rotate: false
+  xy: 669, 485
+  size: 50, 299
+  orig: 50, 299
+  offset: 0, 0
+  index: -1
+legendary/diwing_tenticles
+  rotate: false
+  xy: 2, 2
+  size: 419, 477
+  orig: 419, 477
+  offset: 0, 0
+  index: -1
+legendary/glass_ball
+  rotate: false
+  xy: 1385, 674
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+legendary/glass_ball2
+  rotate: true
+  xy: 1338, 1336
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+legendary/glass_camera
+  rotate: true
+  xy: 669, 796
+  size: 128, 152
+  orig: 128, 152
+  offset: 0, 0
+  index: -1
+legendary/helmet_cower
+  rotate: false
+  xy: 823, 641
+  size: 560, 283
+  orig: 560, 283
+  offset: 0, 0
+  index: -1
+legendary/lens_blick
+  rotate: false
+  xy: 721, 492
+  size: 198, 147
+  orig: 198, 147
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 2, 1438
+  size: 716, 607
+  orig: 716, 607
+  offset: 0, 0
+  index: -1
+snowman
+  rotate: true
+  xy: 1090, 10
+  size: 629, 628
+  orig: 629, 628
+  offset: 0, 0
+  index: -1
+spiner
+  rotate: false
+  xy: 1404, 1405
+  size: 641, 640
+  orig: 641, 640
+  offset: 0, 0
+  index: -1
+update/orc
+  rotate: false
+  xy: 720, 1404
+  size: 682, 641
+  orig: 682, 641
+  offset: 0, 0
+  index: -1
+video_tape
+  rotate: true
+  xy: 1404, 786
+  size: 617, 633
+  orig: 617, 633
+  offset: 0, 0
+  index: -1
+
+trunk_brake2.png
+size: 2044,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P112
+  rotate: false
+  xy: 1792, 401
+  size: 250, 327
+  orig: 250, 327
+  offset: 0, 0
+  index: -1
+P14
+  rotate: false
+  xy: 1792, 1059
+  size: 250, 327
+  orig: 250, 327
+  offset: 0, 0
+  index: -1
+P15
+  rotate: false
+  xy: 1792, 1718
+  size: 250, 328
+  orig: 250, 328
+  offset: 0, 0
+  index: -1
+P16
+  rotate: false
+  xy: 1792, 1388
+  size: 250, 328
+  orig: 250, 328
+  offset: 0, 0
+  index: -1
+P17
+  rotate: false
+  xy: 1792, 73
+  size: 248, 326
+  orig: 248, 326
+  offset: 0, 0
+  index: -1
+P19
+  rotate: false
+  xy: 1792, 730
+  size: 250, 327
+  orig: 250, 327
+  offset: 0, 0
+  index: -1
+discoball
+  rotate: true
+  xy: 606, 227
+  size: 596, 591
+  orig: 596, 591
+  offset: 0, 0
+  index: -1
+discoball-shaterd
+  rotate: true
+  xy: 1199, 227
+  size: 596, 591
+  orig: 596, 591
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 606, 2
+  size: 223, 223
+  orig: 223, 223
+  offset: 0, 0
+  index: -1
+legendary/pie_top
+  rotate: false
+  xy: 2, 206
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+legendary/stake_steam
+  rotate: true
+  xy: 2, 32
+  size: 172, 224
+  orig: 172, 224
+  offset: 0, 0
+  index: -1
+pie_body
+  rotate: false
+  xy: 605, 825
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+spicker
+  rotate: false
+  xy: 2, 1429
+  size: 617, 617
+  orig: 617, 617
+  offset: 0, 0
+  index: -1
+tamogotch
+  rotate: false
+  xy: 621, 1439
+  size: 590, 607
+  orig: 590, 607
+  offset: 0, 0
+  index: -1
+target_37
+  rotate: false
+  xy: 1213, 1465
+  size: 577, 581
+  orig: 577, 581
+  offset: 0, 0
+  index: -1
+turtle
+  rotate: true
+  xy: 2, 810
+  size: 617, 601
+  orig: 617, 601
+  offset: 0, 0
+  index: -1
+watermelon
+  rotate: false
+  xy: 1209, 854
+  size: 581, 583
+  orig: 581, 583
+  offset: 0, 0
+  index: -1
+
+trunk_brake3.png
+size: 2011,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P3
+  rotate: false
+  xy: 958, 713
+  size: 475, 664
+  orig: 475, 664
+  offset: 0, 0
+  index: -1
+P311
+  rotate: false
+  xy: 958, 1379
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P312
+  rotate: false
+  xy: 480, 45
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P35
+  rotate: false
+  xy: 2, 1379
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P36
+  rotate: false
+  xy: 2, 712
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P37
+  rotate: false
+  xy: 480, 1379
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P38
+  rotate: false
+  xy: 2, 45
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P39
+  rotate: false
+  xy: 480, 712
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 1436, 1478
+  size: 566, 566
+  orig: 566, 566
+  offset: 0, 0
+  index: -1
+T3
+  rotate: false
+  xy: 1436, 910
+  size: 566, 566
+  orig: 566, 566
+  offset: 0, 0
+  index: -1
+baloon_1g
+  rotate: false
+  xy: 958, 130
+  size: 525, 581
+  orig: 525, 581
+  offset: 0, 0
+  index: -1
+baloon_2r
+  rotate: false
+  xy: 1485, 327
+  size: 524, 581
+  orig: 524, 581
+  offset: 0, 0
+  index: -1
+legendary/diwing_cowe_closet
+  rotate: false
+  xy: 1485, 2
+  size: 335, 323
+  orig: 335, 323
+  offset: 0, 0
+  index: -1
+
+trunk_brake4.png
+size: 2021,2038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P110
+  rotate: false
+  xy: 1706, 574
+  size: 248, 326
+  orig: 248, 326
+  offset: 0, 0
+  index: -1
+P111
+  rotate: false
+  xy: 1706, 246
+  size: 248, 326
+  orig: 248, 326
+  offset: 0, 0
+  index: -1
+P18
+  rotate: false
+  xy: 887, 9
+  size: 248, 326
+  orig: 248, 326
+  offset: 0, 0
+  index: -1
+P210
+  rotate: false
+  xy: 1664, 1490
+  size: 355, 546
+  orig: 355, 546
+  offset: 0, 0
+  index: -1
+baloon_3b
+  rotate: false
+  xy: 2, 1455
+  size: 524, 581
+  orig: 524, 581
+  offset: 0, 0
+  index: -1
+legendary/lens_broken
+  rotate: false
+  xy: 569, 19
+  size: 316, 316
+  orig: 316, 316
+  offset: 0, 0
+  index: -1
+legendary/lenz_shutter
+  rotate: false
+  xy: 2, 2
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+legendary/stake
+  rotate: false
+  xy: 2, 887
+  size: 566, 566
+  orig: 566, 566
+  offset: 0, 0
+  index: -1
+legendary/stake_burned
+  rotate: false
+  xy: 528, 1470
+  size: 566, 566
+  orig: 566, 566
+  offset: 0, 0
+  index: -1
+sunflower
+  rotate: false
+  xy: 1096, 1470
+  size: 566, 566
+  orig: 566, 566
+  offset: 0, 0
+  index: -1
+target_13
+  rotate: false
+  xy: 1141, 902
+  size: 566, 566
+  orig: 566, 566
+  offset: 0, 0
+  index: -1
+target_16
+  rotate: false
+  xy: 2, 319
+  size: 565, 566
+  orig: 565, 566
+  offset: 0, 0
+  index: -1
+target_20
+  rotate: false
+  xy: 570, 905
+  size: 569, 563
+  orig: 569, 563
+  offset: 0, 0
+  index: -1
+target_36
+  rotate: false
+  xy: 570, 337
+  size: 566, 566
+  orig: 566, 566
+  offset: 0, 0
+  index: -1
+wine_barrel
+  rotate: false
+  xy: 1138, 335
+  size: 566, 565
+  orig: 566, 565
+  offset: 0, 0
+  index: -1
+
+trunk_brake5.png
+size: 1983,2019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P22
+  rotate: false
+  xy: 1627, 924
+  size: 353, 545
+  orig: 353, 545
+  offset: 0, 0
+  index: -1
+P23
+  rotate: true
+  xy: 569, 2
+  size: 353, 545
+  orig: 353, 545
+  offset: 0, 0
+  index: -1
+P24
+  rotate: true
+  xy: 1116, 2
+  size: 353, 545
+  orig: 353, 545
+  offset: 0, 0
+  index: -1
+P26
+  rotate: false
+  xy: 1627, 1471
+  size: 354, 546
+  orig: 354, 546
+  offset: 0, 0
+  index: -1
+T1
+  rotate: false
+  xy: 2, 884
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+clock
+  rotate: false
+  xy: 493, 1452
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+helmet_body
+  rotate: false
+  xy: 2, 1451
+  size: 489, 566
+  orig: 489, 566
+  offset: 0, 0
+  index: -1
+legendary/went
+  rotate: true
+  xy: 1136, 978
+  size: 472, 473
+  orig: 472, 473
+  offset: 0, 0
+  index: -1
+legendary/went_cage
+  rotate: false
+  xy: 2, 317
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+lens_body
+  rotate: false
+  xy: 1060, 1452
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+pizza
+  rotate: false
+  xy: 569, 357
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+stake_coal
+  rotate: false
+  xy: 569, 924
+  size: 527, 526
+  orig: 527, 526
+  offset: 0, 0
+  index: -1
+target_34
+  rotate: false
+  xy: 1136, 357
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+
+trunk_brake6.png
+size: 2027,1703
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P25
+  rotate: false
+  xy: 1672, 590
+  size: 353, 545
+  orig: 353, 545
+  offset: 0, 0
+  index: -1
+P27
+  rotate: false
+  xy: 1672, 43
+  size: 353, 545
+  orig: 353, 545
+  offset: 0, 0
+  index: -1
+dart_target
+  rotate: false
+  xy: 2, 569
+  size: 560, 565
+  orig: 560, 565
+  offset: 0, 0
+  index: -1
+skull
+  rotate: true
+  xy: 564, 569
+  size: 565, 540
+  orig: 565, 540
+  offset: 0, 0
+  index: -1
+target_1
+  rotate: false
+  xy: 569, 1137
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_2
+  rotate: false
+  xy: 1135, 1137
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_3
+  rotate: false
+  xy: 1106, 571
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_35
+  rotate: false
+  xy: 563, 2
+  size: 541, 565
+  orig: 541, 565
+  offset: 0, 0
+  index: -1
+target_5
+  rotate: false
+  xy: 1106, 5
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+went_body
+  rotate: false
+  xy: 2, 1136
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+windmill
+  rotate: true
+  xy: 2, 2
+  size: 565, 559
+  orig: 565, 559
+  offset: 0, 0
+  index: -1
+
+trunk_brake7.png
+size: 1700,1700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+target_10
+  rotate: false
+  xy: 2, 2
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_11
+  rotate: false
+  xy: 568, 568
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_12
+  rotate: false
+  xy: 1134, 1134
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_14
+  rotate: false
+  xy: 568, 2
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_15
+  rotate: false
+  xy: 1134, 568
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_17
+  rotate: false
+  xy: 1134, 2
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_6
+  rotate: false
+  xy: 2, 1134
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_7
+  rotate: false
+  xy: 2, 568
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_9
+  rotate: false
+  xy: 568, 1134
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+
+trunk_brake8.png
+size: 1700,1700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+target_19
+  rotate: false
+  xy: 2, 1134
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_21
+  rotate: false
+  xy: 2, 568
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_22
+  rotate: false
+  xy: 568, 1134
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_23
+  rotate: false
+  xy: 2, 2
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_24
+  rotate: false
+  xy: 568, 568
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_25
+  rotate: false
+  xy: 1134, 1134
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_26
+  rotate: false
+  xy: 568, 2
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_27
+  rotate: false
+  xy: 1134, 568
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_28
+  rotate: false
+  xy: 1134, 2
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+
+trunk_brake9.png
+size: 1816,1681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P2
+  rotate: false
+  xy: 1422, 2
+  size: 352, 545
+  orig: 352, 545
+  offset: 0, 0
+  index: -1
+P211
+  rotate: false
+  xy: 712, 2
+  size: 353, 545
+  orig: 353, 545
+  offset: 0, 0
+  index: -1
+P212
+  rotate: false
+  xy: 1067, 2
+  size: 353, 545
+  orig: 353, 545
+  offset: 0, 0
+  index: -1
+P28
+  rotate: false
+  xy: 2, 2
+  size: 353, 545
+  orig: 353, 545
+  offset: 0, 0
+  index: -1
+P29
+  rotate: false
+  xy: 357, 2
+  size: 353, 545
+  orig: 353, 545
+  offset: 0, 0
+  index: -1
+target_29
+  rotate: false
+  xy: 2, 1115
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_30
+  rotate: false
+  xy: 2, 549
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_31
+  rotate: false
+  xy: 712, 1115
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_32
+  rotate: false
+  xy: 568, 549
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_33
+  rotate: false
+  xy: 1134, 549
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+target_38
+  rotate: false
+  xy: 1278, 1143
+  size: 536, 536
+  orig: 536, 536
+  offset: 0, 0
+  index: -1

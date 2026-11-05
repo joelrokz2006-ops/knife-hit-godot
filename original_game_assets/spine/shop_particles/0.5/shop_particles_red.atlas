@@ -1,0 +1,27 @@
+
+shop_particles_red.png
+size: 60,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beem
+  rotate: false
+  xy: 2, 4
+  size: 18, 63
+  orig: 18, 63
+  offset: 0, 0
+  index: -1
+new
+  rotate: false
+  xy: 22, 2
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 22, 31
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

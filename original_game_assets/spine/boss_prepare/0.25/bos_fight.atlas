@@ -1,0 +1,125 @@
+
+bos_fight.png
+size: 793,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beams
+  rotate: false
+  xy: 2, 27
+  size: 254, 236
+  orig: 254, 236
+  offset: 0, 0
+  index: -1
+blik
+  rotate: false
+  xy: 258, 47
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+boss_defited
+  rotate: false
+  xy: 2, 2
+  size: 248, 23
+  orig: 248, 23
+  offset: 0, 0
+  index: -1
+challenge
+  rotate: false
+  xy: 563, 190
+  size: 154, 35
+  orig: 154, 35
+  offset: 0, 0
+  index: -1
+ground
+  rotate: true
+  xy: 751, 233
+  size: 30, 3
+  orig: 30, 3
+  offset: 0, 0
+  index: -1
+ice_age
+  rotate: false
+  xy: 563, 153
+  size: 154, 35
+  orig: 154, 35
+  offset: 0, 0
+  index: -1
+jungle
+  rotate: false
+  xy: 563, 116
+  size: 154, 35
+  orig: 154, 35
+  offset: 0, 0
+  index: -1
+kingdoms
+  rotate: false
+  xy: 258, 10
+  size: 154, 35
+  orig: 154, 35
+  offset: 0, 0
+  index: -1
+knife
+  rotate: true
+  xy: 670, 9
+  size: 32, 100
+  orig: 32, 100
+  offset: 0, 0
+  index: -1
+legendary
+  rotate: false
+  xy: 563, 79
+  size: 153, 35
+  orig: 153, 35
+  offset: 0, 0
+  index: -1
+monsters
+  rotate: true
+  xy: 719, 72
+  size: 153, 35
+  orig: 153, 35
+  offset: 0, 0
+  index: -1
+pirates
+  rotate: true
+  xy: 756, 110
+  size: 153, 35
+  orig: 153, 35
+  offset: 0, 0
+  index: -1
+rare
+  rotate: false
+  xy: 560, 6
+  size: 108, 35
+  orig: 108, 35
+  offset: 0, 0
+  index: -1
+snare
+  rotate: false
+  xy: 476, 97
+  size: 85, 166
+  orig: 85, 166
+  offset: 0, 0
+  index: -1
+sword_blik
+  rotate: false
+  xy: 476, 22
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+texst
+  rotate: false
+  xy: 563, 227
+  size: 186, 36
+  orig: 186, 36
+  offset: 0, 0
+  index: -1
+treasures
+  rotate: false
+  xy: 560, 43
+  size: 153, 34
+  orig: 153, 34
+  offset: 0, 0
+  index: -1

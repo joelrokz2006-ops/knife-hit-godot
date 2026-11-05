@@ -1,0 +1,20 @@
+
+shop_particles_blue.png
+size: 130,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+new
+  rotate: false
+  xy: 75, 19
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1

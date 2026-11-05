@@ -1,0 +1,846 @@
+
+challenge_bosses_pirates.png
+size: 1428,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P110
+  rotate: false
+  xy: 918, 112
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+P111
+  rotate: true
+  xy: 819, 92
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+P112
+  rotate: false
+  xy: 824, 2
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+P210
+  rotate: true
+  xy: 983, 163
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+P211
+  rotate: true
+  xy: 1121, 163
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+P212
+  rotate: true
+  xy: 1259, 163
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+P310
+  rotate: true
+  xy: 485, 275
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+P311
+  rotate: true
+  xy: 653, 275
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+P312
+  rotate: true
+  xy: 821, 275
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+T10
+  rotate: false
+  xy: 188, 246
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+T11
+  rotate: false
+  xy: 1132, 253
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+T12
+  rotate: false
+  xy: 1275, 253
+  size: 139, 141
+  orig: 139, 141
+  offset: 0, 0
+  index: -1
+T9
+  rotate: false
+  xy: 989, 253
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_blick_9
+  rotate: false
+  xy: 345, 112
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_body_9
+  rotate: false
+  xy: 2, 47
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_crack1_1
+  rotate: true
+  xy: 578, 134
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_crack2_1
+  rotate: false
+  xy: 652, 54
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_crack3_1
+  rotate: false
+  xy: 747, 8
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_crack_1
+  rotate: false
+  xy: 1416, 365
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_dirt1_1
+  rotate: false
+  xy: 1216, 55
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_dirt2_1
+  rotate: false
+  xy: 1416, 309
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_dirt3_2
+  rotate: true
+  xy: 258, 3
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_moss_1
+  rotate: true
+  xy: 1247, 52
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_pattern_9
+  rotate: false
+  xy: 192, 43
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/0_ship_0
+  rotate: true
+  xy: 586, 7
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/1_reflection1_9
+  rotate: true
+  xy: 176, 56
+  size: 163, 14
+  orig: 163, 14
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/1_reflection2_9
+  rotate: false
+  xy: 485, 252
+  size: 172, 21
+  orig: 172, 21
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/1_ship_3
+  rotate: false
+  xy: 758, 2
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/2_pattern2_9
+  rotate: false
+  xy: 1247, 85
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/4_ship_6
+  rotate: true
+  xy: 345, 39
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/6_corosion_6
+  rotate: false
+  xy: 903, 115
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/7_reflection3_9
+  rotate: false
+  xy: 659, 214
+  size: 163, 59
+  orig: 163, 59
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/7_ship_9
+  rotate: false
+  xy: 192, 127
+  size: 83, 117
+  orig: 83, 117
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/8_rubi_9
+  rotate: false
+  xy: 973, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/8_saphire_9
+  rotate: false
+  xy: 1416, 297
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/9_glow_9
+  rotate: false
+  xy: 338, 249
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+challenges/pirates/coin/9_sunbeem_9
+  rotate: true
+  xy: 1147, 60
+  size: 27, 67
+  orig: 27, 67
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/0_backeye_9
+  rotate: true
+  xy: 550, 2
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/0_cloud_7
+  rotate: false
+  xy: 445, 79
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/0_eye_4
+  rotate: false
+  xy: 1054, 3
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/0_eye_lash_0
+  rotate: false
+  xy: 496, 112
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/0_ornament_0
+  rotate: true
+  xy: 180, 2
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/0_tenticle1_9
+  rotate: true
+  xy: 586, 67
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/0_tenticle_shadow_9
+  rotate: true
+  xy: 276, 39
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/1_body_9
+  rotate: true
+  xy: 659, 104
+  size: 46, 107
+  orig: 46, 107
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/1_ornament_1
+  rotate: false
+  xy: 888, 2
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/1_tenticle2_9
+  rotate: false
+  xy: 478, 125
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/1_tenticle3_9
+  rotate: true
+  xy: 485, 201
+  size: 49, 117
+  orig: 49, 117
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/1_tenticle4_9
+  rotate: false
+  xy: 1073, 89
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/2_mouth_2
+  rotate: true
+  xy: 1054, 19
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/2_ornament_2
+  rotate: false
+  xy: 931, 2
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/3_mouth_4
+  rotate: true
+  xy: 1133, 34
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/3_ornament_3
+  rotate: false
+  xy: 973, 22
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/4_horn_6
+  rotate: true
+  xy: 1416, 324
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/4_scar_9
+  rotate: false
+  xy: 652, 2
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/5_eye_8
+  rotate: false
+  xy: 993, 6
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/5_horn_6
+  rotate: true
+  xy: 476, 237
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/5_mouth_6
+  rotate: true
+  xy: 1369, 42
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/5_mouth_6_1
+  rotate: false
+  xy: 1320, 2
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/6_horn_6
+  rotate: false
+  xy: 568, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/7_hair_9
+  rotate: true
+  xy: 87, 4
+  size: 41, 91
+  orig: 41, 91
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/7_hair_shadow_9
+  rotate: true
+  xy: 824, 156
+  size: 37, 92
+  orig: 37, 92
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_club_8
+  rotate: true
+  xy: 1292, 46
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_darkcloud_9
+  rotate: false
+  xy: 1071, 56
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_eye_lash_9
+  rotate: false
+  xy: 1133, 24
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_hook_9
+  rotate: true
+  xy: 578, 145
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_moutch_9
+  rotate: false
+  xy: 1390, 40
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_ship1_9
+  rotate: true
+  xy: 771, 176
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_ship2_9
+  rotate: true
+  xy: 319, 3
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_wheel_8
+  rotate: false
+  xy: 374, 7
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_wood_9
+  rotate: false
+  xy: 730, 2
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_woodmark_9
+  rotate: false
+  xy: 1281, 2
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_wrincles_9
+  rotate: true
+  xy: 903, 132
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/8_wrincles_small_9
+  rotate: false
+  xy: 1301, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/9_club_9
+  rotate: false
+  xy: 1281, 13
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/9_eye_9
+  rotate: false
+  xy: 1389, 24
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/9_tenticle_shadow1_9
+  rotate: false
+  xy: 658, 28
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/9_tenticle_shadow2_9
+  rotate: false
+  xy: 1160, 89
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+challenges/pirates/cracken/eyepatch
+  rotate: true
+  xy: 435, 112
+  size: 86, 41
+  orig: 86, 41
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/0_body_6
+  rotate: false
+  xy: 604, 145
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/0_crack2_0
+  rotate: false
+  xy: 1249, 2
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/0_crack_0
+  rotate: false
+  xy: 1209, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/0_eyebrow_6
+  rotate: false
+  xy: 1365, 20
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/0_g_teath1_6
+  rotate: false
+  xy: 876, 85
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/0_g_teath2_6
+  rotate: false
+  xy: 886, 85
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/0_jaw_6
+  rotate: false
+  xy: 925, 89
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/0_teath_6
+  rotate: true
+  xy: 1240, 42
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/2_bandana_3
+  rotate: true
+  xy: 528, 18
+  size: 105, 56
+  orig: 105, 56
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/2_rebon_7
+  rotate: false
+  xy: 345, 200
+  size: 129, 47
+  orig: 129, 47
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/3_mustatches_3
+  rotate: true
+  xy: 1416, 340
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/4_bandana_4
+  rotate: false
+  xy: 659, 152
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/4_mustatches_6
+  rotate: false
+  xy: 1071, 17
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/4_scar_6
+  rotate: true
+  xy: 859, 85
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/5_cap_7
+  rotate: true
+  xy: 1325, 84
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/7_body_8
+  rotate: true
+  xy: 982, 106
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/7_jaw_8
+  rotate: true
+  xy: 578, 169
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/7_mustatches_7
+  rotate: false
+  xy: 1147, 21
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/8_cap_8
+  rotate: false
+  xy: 824, 195
+  size: 157, 78
+  orig: 157, 78
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/8_mustatches_8
+  rotate: false
+  xy: 2, 2
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/8_rebon_8
+  rotate: true
+  xy: 903, 85
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/8_rebon_part_8
+  rotate: true
+  xy: 680, 5
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+challenges/pirates/pirate/9_body_9
+  rotate: false
+  xy: 2, 221
+  size: 184, 173
+  orig: 184, 173
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/0_crack_0
+  rotate: true
+  xy: 478, 112
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/0_crack_0_1
+  rotate: false
+  xy: 1320, 23
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/0_handle_4
+  rotate: true
+  xy: 1209, 42
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/0_handle_base_4
+  rotate: true
+  xy: 819, 85
+  size: 5, 38
+  orig: 5, 38
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/0_outer_body_4
+  rotate: true
+  xy: 423, 8
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/2_nail_4
+  rotate: false
+  xy: 578, 126
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/3_frame_acc1_4
+  rotate: false
+  xy: 528, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/3_frame_acc2_4
+  rotate: false
+  xy: 983, 255
+  size: 4, 18
+  orig: 4, 18
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/4_handle_acc_bot_4
+  rotate: false
+  xy: 176, 48
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/4_handle_acc_top_4
+  rotate: false
+  xy: 1209, 52
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/5_body1_5
+  rotate: false
+  xy: 1397, 166
+  size: 29, 85
+  orig: 29, 85
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/6_coral_blue_9
+  rotate: true
+  xy: 771, 85
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/7_corale_pink_9
+  rotate: true
+  xy: 1325, 44
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/8_corale_yellow_9
+  rotate: false
+  xy: 1013, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/8_mid_corale_star_9
+  rotate: false
+  xy: 445, 2
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/9_body_white_9
+  rotate: false
+  xy: 1397, 79
+  size: 29, 85
+  orig: 29, 85
+  offset: 0, 0
+  index: -1
+challenges/pirates/ship_wheel/9_octopus_arm_9
+  rotate: true
+  xy: 277, 113
+  size: 131, 66
+  orig: 131, 66
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 1013, 48
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,914 @@
+
+challenge_bosses_jungle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P24
+  rotate: false
+  xy: 2, 2
+  size: 354, 547
+  orig: 354, 547
+  offset: 0, 0
+  index: -1
+P25
+  rotate: false
+  xy: 713, 3
+  size: 354, 546
+  orig: 354, 546
+  offset: 0, 0
+  index: -1
+P26
+  rotate: false
+  xy: 358, 2
+  size: 353, 547
+  orig: 353, 547
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/0_body_8
+  rotate: false
+  xy: 1627, 1390
+  size: 404, 656
+  orig: 404, 656
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/1_plaster_1
+  rotate: false
+  xy: 713, 1024
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/2_plaster_2
+  rotate: true
+  xy: 1917, 51
+  size: 48, 128
+  orig: 48, 128
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/3_eye_8
+  rotate: false
+  xy: 1851, 232
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/4_liane_8
+  rotate: false
+  xy: 671, 711
+  size: 167, 262
+  orig: 167, 262
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/4_mouth_6
+  rotate: false
+  xy: 671, 1166
+  size: 173, 46
+  orig: 173, 46
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/8_nose_acc_8
+  rotate: false
+  xy: 1592, 1164
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/9_body_9
+  rotate: false
+  xy: 846, 551
+  size: 744, 743
+  orig: 744, 743
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/0_body_5
+  rotate: true
+  xy: 1592, 340
+  size: 352, 365
+  orig: 352, 365
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/0_eye_3
+  rotate: false
+  xy: 1917, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/0_moutch_2
+  rotate: false
+  xy: 1608, 2
+  size: 307, 227
+  orig: 307, 227
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/0_neck_8
+  rotate: false
+  xy: 1959, 461
+  size: 87, 212
+  orig: 87, 212
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/0_smile_groow_8
+  rotate: false
+  xy: 1592, 1138
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/1_life_3
+  rotate: false
+  xy: 1950, 101
+  size: 95, 141
+  orig: 95, 141
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/2_L_teath_2
+  rotate: true
+  xy: 780, 657
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/2_mark1_2
+  rotate: false
+  xy: 671, 551
+  size: 107, 158
+  orig: 107, 158
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/2_mark3_2
+  rotate: true
+  xy: 780, 610
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/3_eye_5
+  rotate: false
+  xy: 1966, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/3_mark1_5
+  rotate: false
+  xy: 1479, 228
+  size: 109, 155
+  orig: 109, 155
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/3_mark2_5
+  rotate: false
+  xy: 1959, 340
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/3_mark3_5
+  rotate: true
+  xy: 780, 563
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/4_life_4
+  rotate: false
+  xy: 1479, 385
+  size: 110, 164
+  orig: 110, 164
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/5_smile_groow2_8
+  rotate: false
+  xy: 2027, 1074
+  size: 16, 95
+  orig: 16, 95
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/6_body_8
+  rotate: true
+  xy: 1627, 954
+  size: 434, 398
+  orig: 434, 398
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/8_collar_8
+  rotate: false
+  xy: 1959, 417
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/9_body_9
+  rotate: true
+  xy: 846, 1296
+  size: 750, 779
+  orig: 750, 779
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/0_crack1_9
+  rotate: false
+  xy: 2027, 1171
+  size: 17, 60
+  orig: 17, 60
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/0_crack2_9
+  rotate: false
+  xy: 2027, 975
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/0_crack3_9
+  rotate: false
+  xy: 2027, 1041
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/0_crack4_9
+  rotate: false
+  xy: 1592, 1219
+  size: 32, 75
+  orig: 32, 75
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/1_crack1_9
+  rotate: false
+  xy: 2027, 949
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/1_dot_2
+  rotate: true
+  xy: 671, 1129
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/3_hair_3
+  rotate: false
+  xy: 1197, 341
+  size: 280, 208
+  orig: 280, 208
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/3_nose_7
+  rotate: true
+  xy: 1592, 1191
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/6_hair_7
+  rotate: false
+  xy: 1069, 6
+  size: 314, 332
+  orig: 314, 332
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/6_life_8
+  rotate: true
+  xy: 2027, 1341
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/7_arrow_mini_8
+  rotate: false
+  xy: 671, 1093
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/7_hair_acc_7
+  rotate: false
+  xy: 1590, 231
+  size: 259, 107
+  orig: 259, 107
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/8_crack_8
+  rotate: false
+  xy: 2027, 1008
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/9_body_9
+  rotate: false
+  xy: 2, 551
+  size: 667, 661
+  orig: 667, 661
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/eare
+  rotate: false
+  xy: 1592, 998
+  size: 26, 84
+  orig: 26, 84
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/moss_special
+  rotate: false
+  xy: 1385, 269
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/0_body_8
+  rotate: false
+  xy: 1385, 2
+  size: 221, 224
+  orig: 221, 224
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/0_crown_2
+  rotate: false
+  xy: 1592, 787
+  size: 451, 160
+  orig: 451, 160
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/0_wood_reflection_2
+  rotate: false
+  xy: 2033, 1936
+  size: 13, 110
+  orig: 13, 110
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/1_moutch_1
+  rotate: true
+  xy: 1950, 244
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/1_nose_8
+  rotate: true
+  xy: 671, 975
+  size: 47, 170
+  orig: 47, 170
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/1_nose_blick_2
+  rotate: false
+  xy: 2027, 1233
+  size: 17, 106
+  orig: 17, 106
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/1_paint_8
+  rotate: true
+  xy: 1917, 132
+  size: 98, 22
+  orig: 98, 22
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/3_nose_blick_8
+  rotate: false
+  xy: 1992, 675
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/3eyebroes_8
+  rotate: true
+  xy: 1069, 340
+  size: 209, 126
+  orig: 209, 126
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/7_cross_8
+  rotate: false
+  xy: 1592, 1084
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/8_jwvelin_8
+  rotate: true
+  xy: 1592, 694
+  size: 91, 398
+  orig: 91, 398
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/9_body_9
+  rotate: false
+  xy: 2, 1214
+  size: 842, 832
+  orig: 842, 832
+  offset: 0, 0
+  index: -1
+
+challenge_bosses_jungle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P14
+  rotate: true
+  xy: 1610, 586
+  size: 250, 327
+  orig: 250, 327
+  offset: 0, 0
+  index: -1
+P15
+  rotate: true
+  xy: 1037, 469
+  size: 250, 328
+  orig: 250, 328
+  offset: 0, 0
+  index: -1
+P16
+  rotate: true
+  xy: 936, 217
+  size: 250, 328
+  orig: 250, 328
+  offset: 0, 0
+  index: -1
+P34
+  rotate: false
+  xy: 2, 1381
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P35
+  rotate: false
+  xy: 2, 714
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+P36
+  rotate: false
+  xy: 480, 1381
+  size: 476, 665
+  orig: 476, 665
+  offset: 0, 0
+  index: -1
+T4
+  rotate: false
+  xy: 958, 1481
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+T5
+  rotate: false
+  xy: 2, 147
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+T6
+  rotate: false
+  xy: 480, 814
+  size: 565, 565
+  orig: 565, 565
+  offset: 0, 0
+  index: -1
+T9
+  rotate: false
+  xy: 1047, 916
+  size: 563, 563
+  orig: 563, 563
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/0_target_0
+  rotate: true
+  xy: 1568, 74
+  size: 257, 263
+  orig: 257, 263
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/1_mouth_1
+  rotate: false
+  xy: 1830, 6
+  size: 94, 50
+  orig: 94, 50
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/2_eyes_2
+  rotate: true
+  xy: 1892, 1507
+  size: 219, 101
+  orig: 219, 101
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/2_mouth_2
+  rotate: true
+  xy: 1999, 1006
+  size: 140, 46
+  orig: 140, 46
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/3_mou_3
+  rotate: true
+  xy: 1994, 36
+  size: 141, 44
+  orig: 141, 44
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/4_flower2_8
+  rotate: true
+  xy: 1927, 838
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/4_flower_8
+  rotate: false
+  xy: 1266, 367
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/5_liane_top_8
+  rotate: true
+  xy: 1927, 1263
+  size: 242, 80
+  orig: 242, 80
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/6_live_8
+  rotate: false
+  xy: 1443, 11
+  size: 117, 80
+  orig: 117, 80
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/6_live_mark_8
+  rotate: false
+  xy: 1939, 599
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/6_mark_bot_8
+  rotate: true
+  xy: 1219, 147
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/6_mark_top_8
+  rotate: false
+  xy: 157, 15
+  size: 140, 23
+  orig: 140, 23
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/7_mouth_8
+  rotate: true
+  xy: 1927, 914
+  size: 232, 70
+  orig: 232, 70
+  offset: 0, 0
+  index: -1
+challenges/jungles/pineapple/7_nose_8
+  rotate: true
+  xy: 1219, 29
+  size: 62, 222
+  orig: 62, 222
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/0_body_blick_5
+  rotate: true
+  xy: 569, 202
+  size: 291, 365
+  orig: 291, 365
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/1_head_spots_5
+  rotate: true
+  xy: 852, 7
+  size: 193, 78
+  orig: 193, 78
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/2_mark2_2
+  rotate: false
+  xy: 480, 729
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/3_smile_4
+  rotate: true
+  xy: 1367, 362
+  size: 308, 234
+  orig: 308, 234
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/4_horn_8
+  rotate: false
+  xy: 1725, 4
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/4_teaths_all_4
+  rotate: false
+  xy: 157, 40
+  size: 245, 105
+  orig: 245, 105
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/5_life_5
+  rotate: false
+  xy: 1833, 58
+  size: 159, 273
+  orig: 159, 273
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/5_moutch_half_open_5
+  rotate: false
+  xy: 1603, 333
+  size: 308, 251
+  orig: 308, 251
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/7_life_8
+  rotate: true
+  xy: 1047, 721
+  size: 193, 331
+  orig: 193, 331
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/8_smile_8
+  rotate: true
+  xy: 1266, 93
+  size: 267, 300
+  orig: 267, 300
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/0_body_7
+  rotate: true
+  xy: 1525, 1506
+  size: 220, 365
+  orig: 220, 365
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/0_hair_1
+  rotate: false
+  xy: 569, 10
+  size: 281, 190
+  orig: 281, 190
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/0_moss_8
+  rotate: true
+  xy: 1939, 669
+  size: 167, 97
+  orig: 167, 97
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/1_backenbard_6
+  rotate: true
+  xy: 1999, 962
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/3_tongue_4
+  rotate: false
+  xy: 1913, 343
+  size: 124, 50
+  orig: 124, 50
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/4_eye_7
+  rotate: true
+  xy: 958, 1381
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/4_hair_4
+  rotate: false
+  xy: 936, 33
+  size: 281, 182
+  orig: 281, 182
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/5_hair_5
+  rotate: false
+  xy: 1612, 1172
+  size: 313, 332
+  orig: 313, 332
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/6_arrow_8
+  rotate: false
+  xy: 1993, 1741
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/6_liane_8
+  rotate: true
+  xy: 1913, 395
+  size: 189, 133
+  orig: 189, 133
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/7_backenbard_8
+  rotate: false
+  xy: 1993, 1787
+  size: 42, 259
+  orig: 42, 259
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/8_diamond_8
+  rotate: false
+  xy: 1926, 15
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/8_hair_8
+  rotate: false
+  xy: 1612, 838
+  size: 313, 332
+  orig: 313, 332
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/8_tongue_8
+  rotate: false
+  xy: 404, 8
+  size: 152, 137
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/0_nose_0
+  rotate: false
+  xy: 1994, 179
+  size: 50, 162
+  orig: 50, 162
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/0_wood_lines_8
+  rotate: false
+  xy: 1380, 672
+  size: 228, 242
+  orig: 228, 242
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/2_eye_8
+  rotate: false
+  xy: 2, 2
+  size: 153, 143
+  orig: 153, 143
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/2_moutch_4
+  rotate: false
+  xy: 1927, 1148
+  size: 119, 113
+  orig: 119, 113
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/3_crown_7
+  rotate: false
+  xy: 569, 495
+  size: 466, 317
+  orig: 466, 317
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/4_leve_8
+  rotate: true
+  xy: 1562, 15
+  size: 57, 161
+  orig: 57, 161
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/8_crown_8
+  rotate: false
+  xy: 1525, 1728
+  size: 466, 318
+  orig: 466, 318
+  offset: 0, 0
+  index: -1
+
+challenge_bosses_jungle3.png
+size: 888,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+challenges/jungles/pineapple/1_eye_1
+  rotate: true
+  xy: 572, 120
+  size: 83, 132
+  orig: 83, 132
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/2_R_teath_2
+  rotate: false
+  xy: 625, 46
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+challenges/jungles/plant/6_life_6
+  rotate: false
+  xy: 727, 289
+  size: 159, 273
+  orig: 159, 273
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/2_hair_2
+  rotate: true
+  xy: 2, 48
+  size: 280, 194
+  orig: 280, 194
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/5_tongue_7
+  rotate: true
+  xy: 706, 2
+  size: 124, 75
+  orig: 124, 75
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/7_leafe_big_9
+  rotate: false
+  xy: 2, 330
+  size: 244, 232
+  orig: 244, 232
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/8_body_8
+  rotate: true
+  xy: 248, 343
+  size: 219, 249
+  orig: 219, 249
+  offset: 0, 0
+  index: -1
+challenges/jungles/totem/_ering_8
+  rotate: true
+  xy: 479, 38
+  size: 77, 144
+  orig: 77, 144
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/0_blick_8
+  rotate: true
+  xy: 499, 342
+  size: 220, 226
+  orig: 220, 226
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/0_eye_1
+  rotate: false
+  xy: 357, 10
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/0_moutch_0
+  rotate: false
+  xy: 783, 58
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/5_fether_8
+  rotate: true
+  xy: 198, 6
+  size: 83, 157
+  orig: 83, 157
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/6_upper_eyebrows_8
+  rotate: true
+  xy: 198, 91
+  size: 237, 147
+  orig: 237, 147
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/7_R_eye_8
+  rotate: false
+  xy: 706, 128
+  size: 166, 159
+  orig: 166, 159
+  offset: 0, 0
+  index: -1
+challenges/jungles/tribe_mask/7moutch_8
+  rotate: false
+  xy: 572, 205
+  size: 132, 135
+  orig: 132, 135
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 347, 117
+  size: 223, 223
+  orig: 223, 223
+  offset: 0, 0
+  index: -1

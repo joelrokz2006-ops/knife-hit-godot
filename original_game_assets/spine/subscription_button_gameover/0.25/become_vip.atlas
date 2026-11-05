@@ -1,0 +1,48 @@
+
+become_vip.png
+size: 217,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/BESOME_VIP
+  rotate: false
+  xy: 2, 3
+  size: 79, 11
+  orig: 79, 11
+  offset: 0, 0
+  index: -1
+assets/blik
+  rotate: false
+  xy: 166, 38
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+assets/body
+  rotate: false
+  xy: 2, 16
+  size: 162, 60
+  orig: 162, 60
+  offset: 0, 0
+  index: -1
+assets/dash
+  rotate: false
+  xy: 166, 25
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+assets/star
+  rotate: false
+  xy: 83, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+assets/triangle
+  rotate: true
+  xy: 206, 53
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1

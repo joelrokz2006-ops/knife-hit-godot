@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://b5mop3k8n9q1x"]
+
+[ext_resource type="Script" path="res://scripts/game/Target.gd" id="1_target"]
+[ext_resource type="Texture2D" path="res://assets/art/targets/log_wood_1.png" id="2_wood"]
+
+[node name="Target" type="Node2D"]
+script = ExtResource("1_target")
+
+[node name="TargetSprite" type="Sprite2D" parent="."]
+texture = ExtResource("2_wood")
+
+[node name="StuckKnives" type="Node2D" parent="."]
+
+[node name="Apples" type="Node2D" parent="."]

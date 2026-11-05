@@ -1,0 +1,909 @@
+
+ice_age_bosses.png
+size: 729,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T9
+  rotate: false
+  xy: 368, 578
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/10_body_10
+  rotate: true
+  xy: 589, 876
+  size: 154, 130
+  orig: 154, 130
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/1_body_3
+  rotate: true
+  xy: 230, 751
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/1_cap_blic_8
+  rotate: true
+  xy: 690, 716
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/1_cap_shadow_8
+  rotate: false
+  xy: 531, 449
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/1_ice_1
+  rotate: false
+  xy: 576, 613
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/1_root_2
+  rotate: true
+  xy: 701, 126
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/1_root_shadow_8
+  rotate: false
+  xy: 147, 405
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/3_cap_pattern_8
+  rotate: false
+  xy: 641, 446
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/3_crack_3
+  rotate: false
+  xy: 690, 349
+  size: 3, 11
+  orig: 3, 11
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/3_dot_8
+  rotate: false
+  xy: 283, 416
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/3_root_4
+  rotate: true
+  xy: 702, 179
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/4_body_5
+  rotate: false
+  xy: 656, 640
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/5_leaf_8
+  rotate: true
+  xy: 590, 240
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/5_root_6
+  rotate: true
+  xy: 620, 14
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/6_body_8
+  rotate: false
+  xy: 656, 580
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/7_leaf2_8
+  rotate: true
+  xy: 659, 362
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/7_root_8
+  rotate: false
+  xy: 701, 140
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/8_diamond_8
+  rotate: false
+  xy: 717, 488
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/9_body_9
+  rotate: false
+  xy: 604, 762
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/blik_side
+  rotate: false
+  xy: 681, 7
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/ACORN/assets/leawe1
+  rotate: false
+  xy: 702, 110
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/0_body_8
+  rotate: false
+  xy: 446, 876
+  size: 141, 154
+  orig: 141, 154
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/0_eye0
+  rotate: false
+  xy: 639, 126
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/0_face_blik_6
+  rotate: false
+  xy: 577, 432
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/0_flipper_0
+  rotate: false
+  xy: 649, 7
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/0_horn_0
+  rotate: false
+  xy: 669, 204
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/0_lips_1
+  rotate: true
+  xy: 102, 2
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/0_stripes_1
+  rotate: true
+  xy: 578, 700
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/0_tail_0
+  rotate: false
+  xy: 599, 282
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/0_tinkerbell_8
+  rotate: true
+  xy: 668, 478
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/1_ass_tail_1
+  rotate: true
+  xy: 600, 126
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/1_eye_2
+  rotate: false
+  xy: 214, 100
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/1_face_paint_1
+  rotate: false
+  xy: 695, 349
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/1_flipper_1
+  rotate: false
+  xy: 670, 168
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/1_horn_1
+  rotate: true
+  xy: 551, 126
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/1_tail_1
+  rotate: false
+  xy: 659, 390
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/2_ass_tail_2
+  rotate: false
+  xy: 676, 129
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/2_flipper_2
+  rotate: false
+  xy: 670, 90
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/2_horn_2
+  rotate: false
+  xy: 551, 77
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/2_lips_2
+  rotate: true
+  xy: 199, 2
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/2_stripes_2
+  rotate: false
+  xy: 387, 64
+  size: 34, 103
+  orig: 34, 103
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/2_tail_2
+  rotate: false
+  xy: 635, 282
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/3_ass_tail_6
+  rotate: false
+  xy: 620, 42
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/3_eye_4
+  rotate: true
+  xy: 511, 578
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/3_flipper_6
+  rotate: false
+  xy: 598, 195
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/3_horn_6
+  rotate: false
+  xy: 571, 385
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/3_stripes_3
+  rotate: false
+  xy: 531, 488
+  size: 44, 111
+  orig: 44, 111
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/3_tail_6
+  rotate: false
+  xy: 533, 389
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/4_mouth_4
+  rotate: false
+  xy: 446, 161
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/4_stripes_4
+  rotate: false
+  xy: 380, 296
+  size: 63, 125
+  orig: 63, 125
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/5_eye_8
+  rotate: true
+  xy: 605, 85
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/5_mouth_6
+  rotate: true
+  xy: 445, 340
+  size: 98, 86
+  orig: 98, 86
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/5_nose_7
+  rotate: false
+  xy: 626, 242
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/5_pupil_5
+  rotate: false
+  xy: 544, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/5_stripes_5
+  rotate: false
+  xy: 511, 601
+  size: 63, 125
+  orig: 63, 125
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/6_pupil_7
+  rotate: false
+  xy: 562, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/6_stripes_6
+  rotate: false
+  xy: 381, 169
+  size: 63, 125
+  orig: 63, 125
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/7_ass_tail_7
+  rotate: false
+  xy: 649, 43
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/7_face_blik_7
+  rotate: true
+  xy: 618, 338
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/7_flipper_7
+  rotate: false
+  xy: 600, 150
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/7_horn_7
+  rotate: false
+  xy: 558, 338
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/7_mouth_7
+  rotate: true
+  xy: 446, 240
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/7_stripes_7
+  rotate: true
+  xy: 290, 721
+  size: 101, 154
+  orig: 101, 154
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/7_tail_7
+  rotate: false
+  xy: 544, 17
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/8_ass_tail_8
+  rotate: false
+  xy: 669, 233
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/8_face_blik_8
+  rotate: false
+  xy: 577, 568
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/8_flipper_8
+  rotate: false
+  xy: 403, 2
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/8_horn_8
+  rotate: true
+  xy: 551, 180
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/8_mouth_8
+  rotate: false
+  xy: 2, 2
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/8_nose_8
+  rotate: false
+  xy: 541, 240
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/8_pupil_8
+  rotate: false
+  xy: 580, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/8_tail_8
+  rotate: false
+  xy: 582, 17
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/FISH/assets/9_body_9
+  rotate: false
+  xy: 230, 824
+  size: 214, 206
+  orig: 214, 206
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/0_body_4
+  rotate: true
+  xy: 446, 779
+  size: 95, 156
+  orig: 95, 156
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/0_cyrcle_5
+  rotate: false
+  xy: 283, 423
+  size: 77, 153
+  orig: 77, 153
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/1_head_acc_6
+  rotate: true
+  xy: 717, 501
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/1_horn_band_1
+  rotate: true
+  xy: 690, 285
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/1_horn_diamond_1
+  rotate: true
+  xy: 717, 532
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/2_horn_band_4
+  rotate: false
+  xy: 698, 246
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/2_horn_diamond_4
+  rotate: true
+  xy: 717, 516
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/3_head_paint_1_3
+  rotate: false
+  xy: 690, 700
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/3_head_paint_2_3
+  rotate: true
+  xy: 637, 86
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/3_head_paint_3_3
+  rotate: false
+  xy: 387, 50
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/4_head_paint_8
+  rotate: true
+  xy: 446, 728
+  size: 49, 130
+  orig: 49, 130
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/5_horn_8
+  rotate: false
+  xy: 296, 50
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/6_cyrcle_8
+  rotate: false
+  xy: 362, 423
+  size: 77, 153
+  orig: 77, 153
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/6_head_ruby_7
+  rotate: false
+  xy: 671, 312
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/6_horn_band_7
+  rotate: false
+  xy: 695, 413
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/7_head_acc2_7
+  rotate: true
+  xy: 281, 734
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/7_head_acc_7
+  rotate: false
+  xy: 598, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/7_horn_nail_7
+  rotate: false
+  xy: 578, 762
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/8_head_acc_8
+  rotate: false
+  xy: 641, 432
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/8_head_ruby_8
+  rotate: false
+  xy: 671, 276
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/8_horn_band_8
+  rotate: false
+  xy: 695, 380
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/8_horn_nail_8
+  rotate: true
+  xy: 681, 23
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/MAMUT/assets/9_body_9
+  rotate: false
+  xy: 2, 798
+  size: 226, 232
+  orig: 226, 232
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/0_body_8
+  rotate: false
+  xy: 2, 413
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/0_eye_1
+  rotate: true
+  xy: 678, 43
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/0_eyebrow_L_0
+  rotate: false
+  xy: 651, 343
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/0_eyebrow_R_1
+  rotate: true
+  xy: 715, 451
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/0_horn_4
+  rotate: true
+  xy: 678, 61
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/0_mouth_0
+  rotate: false
+  xy: 225, 723
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/1_mouth_2
+  rotate: true
+  xy: 641, 478
+  size: 88, 25
+  orig: 88, 25
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/1_nose_8
+  rotate: true
+  xy: 631, 385
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/2_big_horn_8
+  rotate: false
+  xy: 632, 163
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/2_eyebrow_R_5
+  rotate: true
+  xy: 533, 340
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/3_eye_8
+  rotate: true
+  xy: 690, 316
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/3_mouth_3
+  rotate: false
+  xy: 447, 46
+  size: 95, 29
+  orig: 95, 29
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/4_mouth_4
+  rotate: false
+  xy: 447, 15
+  size: 95, 29
+  orig: 95, 29
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/4_star_8
+  rotate: true
+  xy: 256, 102
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/5_mouth_6
+  rotate: false
+  xy: 123, 100
+  size: 89, 39
+  orig: 89, 39
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/6_eyebrow_R_8
+  rotate: false
+  xy: 668, 549
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/7_mouth_8
+  rotate: false
+  xy: 296, 2
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/8_star_8
+  rotate: true
+  xy: 630, 202
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+challenges/ICE_AGE/SNOW_MAN/assets/9_body_9
+  rotate: false
+  xy: 2, 573
+  size: 221, 223
+  orig: 221, 223
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 541, 280
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/P14
+  rotate: false
+  xy: 577, 484
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/P15
+  rotate: false
+  xy: 423, 77
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/P16
+  rotate: false
+  xy: 487, 77
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/P24
+  rotate: false
+  xy: 290, 285
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/P25
+  rotate: false
+  xy: 441, 440
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/P26
+  rotate: false
+  xy: 291, 147
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/P34
+  rotate: false
+  xy: 2, 100
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/P35
+  rotate: false
+  xy: 162, 405
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/P36
+  rotate: true
+  xy: 123, 141
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/T4
+  rotate: false
+  xy: 147, 262
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/T5
+  rotate: false
+  xy: 2, 268
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+ice_age_wooden_targets/T6
+  rotate: false
+  xy: 225, 578
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1

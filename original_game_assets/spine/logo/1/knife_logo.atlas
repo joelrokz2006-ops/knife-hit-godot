@@ -1,0 +1,76 @@
+
+knife_logo.png
+size: 968,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E
+  rotate: false
+  xy: 246, 245
+  size: 219, 285
+  orig: 219, 285
+  offset: 0, 0
+  index: -1
+F
+  rotate: false
+  xy: 775, 22
+  size: 191, 258
+  orig: 191, 258
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 2, 238
+  size: 242, 292
+  orig: 242, 292
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 564, 2
+  size: 209, 269
+  orig: 209, 269
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 467, 273
+  size: 222, 257
+  orig: 222, 257
+  offset: 0, 0
+  index: -1
+i
+  rotate: true
+  xy: 250, 3
+  size: 55, 236
+  orig: 55, 236
+  offset: 0, 0
+  index: -1
+i2
+  rotate: true
+  xy: 250, 60
+  size: 59, 255
+  orig: 59, 255
+  offset: 0, 0
+  index: -1
+knife
+  rotate: false
+  xy: 2, 30
+  size: 246, 89
+  orig: 246, 89
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 691, 282
+  size: 205, 248
+  orig: 205, 248
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 121
+  size: 560, 115
+  orig: 560, 115
+  offset: 0, 0
+  index: -1

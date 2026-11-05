@@ -1,0 +1,55 @@
+
+apple_golden.png
+size: 219,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple_pice
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+apple_pice_gold
+  rotate: false
+  xy: 9, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+beem_norm
+  rotate: false
+  xy: 166, 55
+  size: 13, 116
+  orig: 13, 116
+  offset: 0, 0
+  index: -1
+blik
+  rotate: false
+  xy: 2, 9
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 16, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+golden_apple
+  rotate: false
+  xy: 181, 136
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 166, 2
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

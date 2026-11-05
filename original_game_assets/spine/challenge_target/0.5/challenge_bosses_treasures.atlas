@@ -1,0 +1,790 @@
+
+challenge_bosses_treasures.png
+size: 1937,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P17
+  rotate: true
+  xy: 1397, 61
+  size: 124, 163
+  orig: 124, 163
+  offset: 0, 0
+  index: -1
+P19
+  rotate: true
+  xy: 1106, 21
+  size: 124, 163
+  orig: 124, 163
+  offset: 0, 0
+  index: -1
+P27
+  rotate: false
+  xy: 241, 193
+  size: 176, 273
+  orig: 176, 273
+  offset: 0, 0
+  index: -1
+P29
+  rotate: true
+  xy: 1480, 650
+  size: 176, 272
+  orig: 176, 272
+  offset: 0, 0
+  index: -1
+P37
+  rotate: true
+  xy: 309, 793
+  size: 237, 332
+  orig: 237, 332
+  offset: 0, 0
+  index: -1
+P39
+  rotate: false
+  xy: 2, 134
+  size: 237, 332
+  orig: 237, 332
+  offset: 0, 0
+  index: -1
+T7
+  rotate: false
+  xy: 643, 748
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+T9
+  rotate: false
+  xy: 927, 748
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/0_body_1
+  rotate: true
+  xy: 1747, 914
+  size: 116, 188
+  orig: 116, 188
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/0_hanger_4
+  rotate: false
+  xy: 457, 195
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/0_moon_5
+  rotate: true
+  xy: 1181, 333
+  size: 146, 210
+  orig: 146, 210
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/0_star_2
+  rotate: false
+  xy: 1717, 2
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/1_frame_1
+  rotate: true
+  xy: 1291, 117
+  size: 214, 104
+  orig: 214, 104
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/1_star_tail_1
+  rotate: true
+  xy: 189, 3
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/2_body_4
+  rotate: false
+  xy: 308, 481
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/2_gold_crust_8
+  rotate: false
+  xy: 762, 534
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/2_shadow_5
+  rotate: true
+  xy: 1393, 344
+  size: 99, 196
+  orig: 99, 196
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/2_star_tail_2
+  rotate: true
+  xy: 1749, 89
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/3_sun_3
+  rotate: false
+  xy: 1006, 14
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/4_moon_sun_8
+  rotate: false
+  xy: 1397, 187
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/5_body_8
+  rotate: false
+  xy: 535, 481
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/5_hanger_6
+  rotate: true
+  xy: 1883, 66
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/5_triangle_8
+  rotate: false
+  xy: 976, 534
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/6_wawe_line_8
+  rotate: false
+  xy: 1211, 764
+  size: 267, 266
+  orig: 267, 266
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/7_hanger_8
+  rotate: false
+  xy: 708, 708
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/8_green_gem_8
+  rotate: false
+  xy: 1676, 541
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/8_red_gem_8
+  rotate: true
+  xy: 1562, 61
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+challenges/treasures/amulet/9_body_9
+  rotate: false
+  xy: 2, 468
+  size: 304, 275
+  orig: 304, 275
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/0_body_2
+  rotate: true
+  xy: 801, 98
+  size: 208, 185
+  orig: 208, 185
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/0_lock_2
+  rotate: true
+  xy: 621, 708
+  size: 38, 85
+  orig: 38, 85
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/1_cower_snap_2
+  rotate: false
+  xy: 1603, 7
+  size: 112, 31
+  orig: 112, 31
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/2_lock_2
+  rotate: true
+  xy: 1393, 445
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/2_nail_normal_2
+  rotate: false
+  xy: 1591, 344
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/3_body_3
+  rotate: false
+  xy: 976, 560
+  size: 224, 186
+  orig: 224, 186
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/4_body_6
+  rotate: true
+  xy: 767, 308
+  size: 224, 186
+  orig: 224, 186
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/4_lock_6
+  rotate: false
+  xy: 419, 193
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/4_reinforcer_4
+  rotate: false
+  xy: 1881, 277
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/4_triangle_6
+  rotate: true
+  xy: 1790, 43
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/5_shadow_triangles_5
+  rotate: false
+  xy: 2, 14
+  size: 185, 16
+  orig: 185, 16
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/6_cower_snap_6
+  rotate: true
+  xy: 955, 308
+  size: 224, 66
+  orig: 224, 66
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/6_reinforcer_6
+  rotate: false
+  xy: 1831, 81
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_body_8
+  rotate: true
+  xy: 1562, 73
+  size: 117, 185
+  orig: 117, 185
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_bolt_7
+  rotate: false
+  xy: 1072, 317
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_cower_blick2_8
+  rotate: true
+  xy: 1747, 837
+  size: 75, 5
+  orig: 75, 5
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_cower_blick3_8
+  rotate: false
+  xy: 1023, 342
+  size: 117, 6
+  orig: 117, 6
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_cower_blick4_8
+  rotate: false
+  xy: 1603, 40
+  size: 185, 31
+  orig: 185, 31
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_cower_blick5_8
+  rotate: true
+  xy: 1672, 208
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_cower_blick_8_1
+  rotate: false
+  xy: 1829, 265
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_lock_8
+  rotate: false
+  xy: 1826, 49
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_nail_L_side_7
+  rotate: false
+  xy: 1271, 124
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_nail_R_side_7
+  rotate: false
+  xy: 1915, 644
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/7_nail_gold_7
+  rotate: false
+  xy: 1749, 73
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/8_bolt_8
+  rotate: false
+  xy: 1719, 240
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/8_diamond_L_cower_8
+  rotate: false
+  xy: 1780, 9
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/8_diamond_R_cower_8
+  rotate: true
+  xy: 767, 241
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/8_diamond_body_8
+  rotate: false
+  xy: 1899, 16
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/8_eyes_8
+  rotate: true
+  xy: 1672, 240
+  size: 119, 45
+  orig: 119, 45
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/8_teath_8
+  rotate: true
+  xy: 1088, 77
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+challenges/treasures/chest/9_body_9
+  rotate: false
+  xy: 1480, 828
+  size: 265, 202
+  orig: 265, 202
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/0_HeadTopBlick_8
+  rotate: true
+  xy: 1271, 9
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/0_HeadTopShadow_8
+  rotate: true
+  xy: 1554, 192
+  size: 150, 116
+  orig: 150, 116
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/0_HeadTop_8
+  rotate: true
+  xy: 988, 102
+  size: 204, 116
+  orig: 204, 116
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/0_body_1
+  rotate: false
+  xy: 1389, 7
+  size: 212, 52
+  orig: 212, 52
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/0_bulb_1
+  rotate: true
+  xy: 1760, 2
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/0_dot_5
+  rotate: true
+  xy: 230, 124
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/0_pillow_1
+  rotate: false
+  xy: 309, 708
+  size: 246, 83
+  orig: 246, 83
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/0_spikes_0
+  rotate: true
+  xy: 1688, 445
+  size: 203, 70
+  orig: 203, 70
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/1_spikes_1
+  rotate: false
+  xy: 801, 4
+  size: 203, 92
+  orig: 203, 92
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/2_PillowBodyBlick_5
+  rotate: false
+  xy: 1591, 361
+  size: 127, 82
+  orig: 127, 82
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/2_PillowBodyShadow_5
+  rotate: false
+  xy: 2, 32
+  size: 226, 100
+  orig: 226, 100
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/2_PillowBody_5
+  rotate: false
+  xy: 1211, 662
+  size: 244, 100
+  orig: 244, 100
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/2_spikes_3
+  rotate: true
+  xy: 488, 4
+  size: 228, 156
+  orig: 228, 156
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/3_crystal_5
+  rotate: false
+  xy: 1181, 536
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/4_dot_4
+  rotate: false
+  xy: 1672, 192
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/4_spikes_5
+  rotate: true
+  xy: 646, 5
+  size: 233, 153
+  orig: 233, 153
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/5_acc1_5
+  rotate: true
+  xy: 1271, 117
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/5_acc2_5
+  rotate: false
+  xy: 1457, 650
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/5_acc3_5
+  rotate: false
+  xy: 1181, 489
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/5_acc5_5
+  rotate: false
+  xy: 621, 770
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/5_acc6_5
+  rotate: false
+  xy: 767, 267
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/6_body_8
+  rotate: false
+  xy: 1443, 445
+  size: 233, 42
+  orig: 233, 42
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/6_pillow_7
+  rotate: false
+  xy: 1445, 555
+  size: 241, 93
+  orig: 241, 93
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/6_spikes_6
+  rotate: false
+  xy: 1443, 489
+  size: 231, 64
+  orig: 231, 64
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/6_top_7
+  rotate: true
+  xy: 1760, 446
+  size: 219, 75
+  orig: 219, 75
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/7_spikes_7
+  rotate: false
+  xy: 1202, 481
+  size: 239, 79
+  orig: 239, 79
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/8_pillow_8
+  rotate: false
+  xy: 1202, 562
+  size: 241, 98
+  orig: 241, 98
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/8_spikes_8
+  rotate: true
+  xy: 622, 240
+  size: 239, 143
+  orig: 239, 143
+  offset: 0, 0
+  index: -1
+challenges/treasures/crown/9_body_9
+  rotate: false
+  xy: 2, 745
+  size: 305, 285
+  orig: 305, 285
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/0_body_4
+  rotate: false
+  xy: 1023, 350
+  size: 156, 208
+  orig: 156, 208
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/0_rock_0
+  rotate: false
+  xy: 1106, 147
+  size: 183, 184
+  orig: 183, 184
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/0_rock_pice_2
+  rotate: false
+  xy: 1826, 18
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/1_rock_01_1
+  rotate: false
+  xy: 1837, 481
+  size: 76, 184
+  orig: 76, 184
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/1_rock_02_1
+  rotate: false
+  xy: 1720, 259
+  size: 107, 184
+  orig: 107, 184
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/2_rock2_2
+  rotate: false
+  xy: 1883, 97
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/2_rock_2
+  rotate: false
+  xy: 557, 710
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/4_body_4
+  rotate: true
+  xy: 241, 2
+  size: 189, 245
+  orig: 189, 245
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/5_hole_5
+  rotate: false
+  xy: 1181, 512
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/6_acc_L_6
+  rotate: false
+  xy: 1868, 40
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/6_acc_R_6
+  rotate: false
+  xy: 1896, 40
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/6_body_7
+  rotate: false
+  xy: 419, 234
+  size: 201, 245
+  orig: 201, 245
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/6_white_line_9
+  rotate: true
+  xy: 1007, 534
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/7_acc_L_7
+  rotate: true
+  xy: 1862, 204
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/7_acc_R_7
+  rotate: false
+  xy: 1862, 149
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/7_frame_8
+  rotate: true
+  xy: 1457, 704
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/8_body_9
+  rotate: false
+  xy: 1754, 667
+  size: 180, 245
+  orig: 180, 245
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/8_side_acc_8
+  rotate: true
+  xy: 1023, 313
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/9_acc_L_9
+  rotate: true
+  xy: 1457, 673
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/9_acc_R_9
+  rotate: false
+  xy: 1868, 17
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/9_arc_9
+  rotate: true
+  xy: 1829, 342
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/9_arrow_9
+  rotate: true
+  xy: 1837, 446
+  size: 33, 77
+  orig: 33, 77
+  offset: 0, 0
+  index: -1
+challenges/treasures/gem/9_blick_9
+  rotate: true
+  xy: 1829, 259
+  size: 4, 29
+  orig: 4, 29
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 1749, 146
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1

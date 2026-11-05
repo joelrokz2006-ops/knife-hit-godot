@@ -1,0 +1,13 @@
+
+confeti.png
+size: 227,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/conf
+  rotate: false
+  xy: 2, 2
+  size: 223, 73
+  orig: 223, 73
+  offset: 0, 0
+  index: -1

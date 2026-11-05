@@ -1,0 +1,21 @@
+# Godot 4.x caches
+.godot/
+*.translation
+*.import
+/android/
+android/
+
+# Build artifacts & packages
+build/
+*.apk
+*.apkm
+*.aab
+*.aar
+*.idsig
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

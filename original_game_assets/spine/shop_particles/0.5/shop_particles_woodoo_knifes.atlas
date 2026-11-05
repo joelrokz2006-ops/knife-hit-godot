@@ -1,0 +1,20 @@
+
+shop_particles_woodoo_knifes.png
+size: 69,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+new
+  rotate: false
+  xy: 40, 11
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

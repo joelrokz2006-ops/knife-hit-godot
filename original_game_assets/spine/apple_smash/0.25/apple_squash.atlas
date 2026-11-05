@@ -1,0 +1,41 @@
+
+apple_squash.png
+size: 228,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple_pice
+  rotate: false
+  xy: 2, 44
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+apple_pice_gold
+  rotate: false
+  xy: 2, 36
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+beem_norm
+  rotate: true
+  xy: 2, 52
+  size: 18, 154
+  orig: 18, 154
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 11, 44
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 158, 2
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1

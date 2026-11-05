@@ -1,0 +1,112 @@
+[gd_scene load_steps=6 format=3 uid="uid://b1m6o8k9q3p2x"]
+
+[ext_resource type="Script" path="res://scripts/ui/Hud.gd" id="1_hud"]
+[ext_resource type="FontFile" path="res://assets/fonts/Dyno Bold.ttf" id="2_font"]
+[ext_resource type="Texture2D" path="res://assets/art/ui/apple.png" id="3_apple"]
+[ext_resource type="Script" path="res://scripts/ui/KnifesBar.gd" id="4_knifesbar"]
+[ext_resource type="Texture2D" path="res://assets/art/ui/settings.png" id="5_pause"]
+
+[node name="HUD" type="CanvasLayer"]
+script = ExtResource("1_hud")
+
+[node name="PauseButton" type="Button" parent="."]
+custom_minimum_size = Vector2(80, 80)
+offset_left = 50.0
+offset_top = 70.0
+offset_right = 130.0
+offset_bottom = 150.0
+icon = ExtResource("5_pause")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[node name="StageLabel" type="Label" parent="."]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300.0
+offset_top = 80.0
+offset_right = 300.0
+offset_bottom = 135.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("2_font")
+theme_override_font_sizes/font_size = 40
+text = "STAGE 1"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ScoreLabel" type="Label" parent="."]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -200.0
+offset_top = 145.0
+offset_right = 200.0
+offset_bottom = 275.0
+grow_horizontal = 2
+pivot_offset = Vector2(200, 65)
+theme_override_fonts/font = ExtResource("2_font")
+theme_override_font_sizes/font_size = 110
+text = "0"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ApplesContainer" type="HBoxContainer" parent="."]
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -250.0
+offset_top = 75.0
+offset_right = -50.0
+offset_bottom = 135.0
+grow_horizontal = 0
+alignment = 2
+
+[node name="AppleIcon" type="TextureRect" parent="ApplesContainer"]
+custom_minimum_size = Vector2(46, 46)
+layout_mode = 2
+texture = ExtResource("3_apple")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="ApplesLabel" type="Label" parent="ApplesContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_font")
+theme_override_font_sizes/font_size = 44
+text = "0"
+vertical_alignment = 1
+
+[node name="KnifesBar" type="VBoxContainer" parent="."]
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 60.0
+offset_top = -680.0
+offset_right = 110.0
+offset_bottom = -120.0
+grow_vertical = 0
+alignment = 2
+script = ExtResource("4_knifesbar")
+
+[node name="StageBanner" type="Label" parent="."]
+visible = false
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -450.0
+offset_top = -120.0
+offset_right = 450.0
+offset_bottom = 120.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(450, 120)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.7)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 4
+theme_override_fonts/font = ExtResource("2_font")
+theme_override_font_sizes/font_size = 76
+text = "STAGE 1"
+horizontal_alignment = 1
+vertical_alignment = 1

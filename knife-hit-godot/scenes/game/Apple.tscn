@@ -1,0 +1,23 @@
+[gd_scene load_steps=5 format=3 uid="uid://c83k4lme2y5q"]
+
+[ext_resource type="Script" path="res://scripts/game/Apple.gd" id="1_apple"]
+[ext_resource type="Texture2D" path="res://assets/art/ui/apple.png" id="2_whole"]
+[ext_resource type="Texture2D" path="res://assets/art/ui/half_1.png" id="3_half1"]
+[ext_resource type="Texture2D" path="res://assets/art/ui/half_2.png" id="4_half2"]
+
+[node name="Apple" type="Node2D"]
+script = ExtResource("1_apple")
+
+[node name="WholeSprite" type="Sprite2D" parent="."]
+scale = Vector2(0.85, 0.85)
+texture = ExtResource("2_whole")
+
+[node name="Half1" type="Sprite2D" parent="."]
+visible = false
+scale = Vector2(0.85, 0.85)
+texture = ExtResource("3_half1")
+
+[node name="Half2" type="Sprite2D" parent="."]
+visible = false
+scale = Vector2(0.85, 0.85)
+texture = ExtResource("4_half2")

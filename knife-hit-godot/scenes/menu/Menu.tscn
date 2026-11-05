@@ -1,0 +1,175 @@
+[gd_scene load_steps=10 format=3 uid="uid://cb6pbgnvpjrwn"]
+
+[ext_resource type="Script" path="res://scripts/ui/MenuView.gd" id="1_menu"]
+[ext_resource type="Texture2D" uid="uid://csc2ngjrqo42b" path="res://assets/art/bg/bg0.png" id="2_bg"]
+[ext_resource type="FontFile" uid="uid://e2jg4mx2e0mk" path="res://assets/fonts/Dyno Bold.ttf" id="3_font"]
+[ext_resource type="Texture2D" uid="uid://bpuk2k3w3qxov" path="res://assets/art/ui/apple.png" id="4_apple"]
+[ext_resource type="Texture2D" uid="uid://ul4myd6bcreu" path="res://assets/art/ui/settings_bottom.png" id="5_sound"]
+[ext_resource type="Texture2D" uid="uid://b6mygwepodmcs" path="res://assets/art/targets/log_wood_1.png" id="6_target"]
+[ext_resource type="Texture2D" uid="uid://u5rr2ewxed8u" path="res://assets/art/knifes/knife_0.png" id="7_knife"]
+[ext_resource type="Texture2D" uid="uid://cepqg66gsf0m0" path="res://assets/art/ui/play.png" id="8_play"]
+[ext_resource type="Texture2D" uid="uid://dmk6ytwsl4aje" path="res://assets/art/ui/customize.png" id="9_shop"]
+
+[node name="Menu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_menu")
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(540, 960)
+scale = Vector2(2.5, 4)
+texture = ExtResource("2_bg")
+
+[node name="TopBar" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 180.0
+grow_horizontal = 2
+
+[node name="SoundButton" type="Button" parent="TopBar"]
+custom_minimum_size = Vector2(90, 90)
+layout_mode = 1
+offset_left = 50.0
+offset_top = 70.0
+offset_right = 140.0
+offset_bottom = 160.0
+icon = ExtResource("5_sound")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[node name="ApplesContainer" type="HBoxContainer" parent="TopBar"]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -260.0
+offset_top = 75.0
+offset_right = -50.0
+offset_bottom = 145.0
+grow_horizontal = 0
+alignment = 2
+
+[node name="AppleIcon" type="TextureRect" parent="TopBar/ApplesContainer"]
+custom_minimum_size = Vector2(48, 48)
+layout_mode = 2
+texture = ExtResource("4_apple")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="ApplesLabel" type="Label" parent="TopBar/ApplesContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_font")
+theme_override_font_sizes/font_size = 44
+text = "0"
+vertical_alignment = 1
+
+[node name="Title" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -400.0
+offset_top = 220.0
+offset_right = 400.0
+offset_bottom = 350.0
+grow_horizontal = 2
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.6)
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 6
+theme_override_fonts/font = ExtResource("3_font")
+theme_override_font_sizes/font_size = 110
+text = "KNIFE HIT"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ScoreContainer" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300.0
+offset_top = 350.0
+offset_right = 300.0
+offset_bottom = 430.0
+grow_horizontal = 2
+
+[node name="HighScoreLabel" type="Label" parent="ScoreContainer"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.85, 0.85, 0.95, 1)
+theme_override_fonts/font = ExtResource("3_font")
+theme_override_font_sizes/font_size = 40
+text = "BEST SCORE: 0"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="CenterShowcase" type="Node2D" parent="."]
+position = Vector2(540, 840)
+
+[node name="TargetSprite" type="Sprite2D" parent="CenterShowcase"]
+scale = Vector2(0.55, 0.55)
+texture = ExtResource("6_target")
+
+[node name="KnifeSprite" type="Sprite2D" parent="CenterShowcase"]
+position = Vector2(0, 310)
+scale = Vector2(0.9, 0.9)
+texture = ExtResource("7_knife")
+
+[node name="PlayButton" type="Button" parent="."]
+custom_minimum_size = Vector2(300, 120)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -150.0
+offset_top = 440.0
+offset_right = 150.0
+offset_bottom = 560.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(150, 60)
+icon = ExtResource("8_play")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[node name="BottomBar" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -240.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="ShopButton" type="Button" parent="BottomBar"]
+custom_minimum_size = Vector2(130, 130)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -65.0
+offset_top = -65.0
+offset_right = 65.0
+offset_bottom = 65.0
+grow_horizontal = 2
+grow_vertical = 2
+icon = ExtResource("9_shop")
+flat = true
+icon_alignment = 1
+expand_icon = true
